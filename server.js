@@ -7,4 +7,4 @@ http.createServer(function(req, res) {
   res.end(payload);
 }).listen(1337);
 
-console.log('Server started...');
+console.log('Server started...Listening on port 1337');
