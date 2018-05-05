@@ -4,8 +4,10 @@
   "description": "### Getting Started",
   "main": "server.js",
   "scripts": {
+    "start": "node ./bin/www",
+    "dev": "concurrently \"nodemon ./bin/www\" \"cd ./client  && npm start \" ",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "postinstall": "cd client && npm install && npm run build"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,18 @@
   "bugs": {
     "url": "https://github.com/GroundFloorUS/SeniorFrontEndChallenge/issues"
   },
-  "homepage": "https://github.com/GroundFloorUS/SeniorFrontEndChallenge#readme"
+  "homepage": "https://github.com/GroundFloorUS/SeniorFrontEndChallenge#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "concurrently": "^3.5.1",
+    "cookie-parser": "^1.4.3",
+    "debug": "^3.1.0",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "mongoose": "^5.0.17",
+    "morgan": "^1.9.0",
+    "react-router-dom": "^4.2.2",
+    "serve-favicon": "^2.5.0"
+  }
 }
