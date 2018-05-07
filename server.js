@@ -30,10 +30,6 @@ server.get('/', (req, res) => {
   res.sendFile(__dirname + '/client/build/index.html')
 })
 
-//view engine setup
-// // sever.set('views', path.join(__dirname, 'views'))
-// server.set('view engine', 'hbs')
-
 server.use(logger('dev'))
 server.use(bodyParser.json())
 server.use(bodyParser.urlencoded({extended: false}))
@@ -43,7 +39,7 @@ server.use(express.static(path.join(__dirname, 'public')))
 
 //Controllers
 // const userController = require('.routes/userController,js')
-// server.use('/apu/users')
+// server.use('/api/users')
 
 //catch 404 
 server.use(function (req, res, next) {
@@ -54,7 +50,7 @@ server.use(function (req, res, next) {
 
 http.createServer(function(req, res) {
   res.writeHead(200, { 'Content-Type': 'application/json' });
-  var payload = fs.readFileSync('./data_set.json', 'utf8');
+  var payload = fs.readFileSync('./db/data_set.json', 'utf8');
   res.end(payload);
 }).listen(1337);
 

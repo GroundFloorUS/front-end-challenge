@@ -8,7 +8,7 @@ export function getBusinessRoute() {
   return function (dispatch) {
     return axios.get('api/businesses')
     .then((response) =>{
-      dispatch(sendBsuinessesToState(response.data))
+      dispatch(sendBusinessesToState(response.data))
     })
   }
 }
@@ -40,7 +40,7 @@ export function sendNewBusinessToDatabase(newBusinessInfo) {
 }
 
 export function editedBusinessToState(editedBusinessData) {
-  return {type: 'EDIT_BUSINESS', editedBusinessrData}
+  return {type: 'EDIT_BUSINESS', editedBusinessData}
 }
 
 export function editedBusinessInDatabase(editedBusinessInfo) {
