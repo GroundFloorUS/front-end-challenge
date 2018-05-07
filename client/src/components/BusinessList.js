@@ -1,22 +1,22 @@
 import React, { Component } from 'react'
-import {connect} from 'react-redux'
-import {push} from 'react-router-redux'
+import { connect } from 'react-redux'
+import { push } from 'react-router-redux'
 import styled from 'styled-components'
-import {getBusinessRoute} from '../actions/thunk.businesses.js'
+import { getBusinessRoute } from '../actions/thunk.businesses.js'
 
 class BusinessList extends Component {
 
   componentWillMount() {
-      this.props
+    this.props
       .getBusinessRoute()
   }
   render() {
-    return ( 
-    <Body>
+    return (
+      <Body>
         <div>
           <h2>Business Page</h2>
         </div>
-        <br/>
+        <br />
         <Container>
           {this.props.businesses
             .map((business, i) => {
@@ -27,26 +27,22 @@ class BusinessList extends Component {
                       {business.name}
                     </div>
                   </BusinessTitle>
-
                   <div onClick={() => this.props.push(`/businesses/${business.id}/profile`)}>
                   </div>
-
-                  
                 </BusinessBox>
               )
             })}
-
         </Container>
       </Body>
     )
   }
 }
 const mapStateToProps = (state) => {
-  return {businesses: state.businesses}
+  return { businesses: state.businesses }
 }
-export default connect(mapStateToProps, {push, getBusinessRoute})(BusinessList)
+export default connect(mapStateToProps, { push, getBusinessRoute }) (BusinessList)
 
-const Body = styled.div `
+const Body = styled.div`
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -96,7 +92,7 @@ const Body = styled.div `
       }};
 `
 
-const Container = styled.div `
+const Container = styled.div`
     display: flex;
     flex-direction: row;
     flex-wrap:wrap;
@@ -107,7 +103,7 @@ const Container = styled.div `
     margin: 40px;
 `;
 
-const BusinessTitle = styled.div `
+const BusinessTitle = styled.div`
     display: flex;
     flex-direction: row;
     width: 70vh;
@@ -116,7 +112,7 @@ const BusinessTitle = styled.div `
     margin:5px;
     padding:5px;`
 
-const BusinessBox = styled.div `
+const BusinessBox = styled.div`
     width: 40vh;
     height: 40vh;
     display: flex;
