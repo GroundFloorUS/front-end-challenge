@@ -1,7 +1,7 @@
 import axios from 'axios'
 
-export function sendBusinessesToState(businessesFromDatabase) {
-  return {type: 'GET_BUSINESSES', businessesFromDatabase}
+export function sendBusinessesToState(businesses) {
+  return {type: 'GET_BUSINESSES', businesses}
 }
 
 export function getBusinessRoute() {

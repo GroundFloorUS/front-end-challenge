@@ -1,7 +1,8 @@
-function businessReducer(state = [], action) {
+function businessReducer(
+  state = [], action) {
   switch (action.type) {
-    case 'GET_BUSINESS':
-      return [...action.businessesFromDatabase]
+    case 'GET_BUSINESSES':
+      return [...action.businesses]
 
     case 'CREATE_BUSINESS':
     return [...state, action.newBusinessData] 

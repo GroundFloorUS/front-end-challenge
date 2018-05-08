@@ -24,7 +24,7 @@ class BusinessList extends Component {
                 <BusinessBox key={i}>
                   <BusinessTitle>
                     <div>
-                      {business.name}
+                      {business.attributes.business_name}
                     </div>
                   </BusinessTitle>
                   <div onClick={() => this.props.push(`/businesses/${business.id}/profile`)}>
@@ -113,8 +113,8 @@ const BusinessTitle = styled.div`
     padding:5px;`
 
 const BusinessBox = styled.div`
-    width: 40vh;
-    height: 40vh;
+    width: 10vh;
+    height: 10vh;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -124,7 +124,7 @@ const BusinessBox = styled.div`
     padding:5px;
     color: black;
     border: 1px solid darkgray;
-    background: rgba(255,255,255,0.55);
+    background: rgba(0,0,0,0.55);
     font-size: 2.25vh;
     cursor: pointer;
     img {
