@@ -1,31 +1,27 @@
 <template>
   <div id="app">
   
-  <md-table md-card>
+  <md-table v-model="searched" md-card md-fixed-header>
     
     <md-table-toolbar>
-      <h1 class="md-title">Businesses</h1>
-        <div class="autocomplete">
-        <input type="text" />
-        <ul class="autocomplete-results">
-          <li class="autocomplete-result">
-
-          </li>
-        </ul>
+      <div class="md-toolbar-section-start">
+        <h1 class="md-title">Businesses</h1>
       </div>
+      <md-field md-clearable class="md-toolbar-section-end">
+        <md-input placeholder="Search by name..." v-model="search" @input="searchOnTable" />
+      </md-field>
     </md-table-toolbar>
-    <md-table-row>
-      <md-table-head>ID</md-table-head>
-      <md-table-head>Business Name</md-table-head>
-      <md-table-head>City</md-table-head>
-      <md-table-head>State</md-table-head>
-    </md-table-row>
-    <md-table-row v-for="business of businesses "
-    :key="business.id">
-      <md-table-head>{{ business.id }}</md-table-head>
-      <md-table-head>{{ business.attributes.business_name }}</md-table-head>
-      <md-table-head>{{ business.attributes.city }}</md-table-head>
-      <md-table-head>{{ business.attributes.state }}</md-table-head>
+          <md-table-empty-state
+        md-label="No businesses found"
+        :md-description="`No business found for this '${search}'`">
+        
+      </md-table-empty-state>
+
+    <md-table-row slot="md-table-row" slot-scope="{ item }">
+      <md-table-cell md-label="ID" md-sort-by="id" md-numeric>{{ item.id }}</md-table-cell>
+      <md-table-cell md-label="Name" md-sort-by="business_name">{{ item.attributes.business_name }}</md-table-cell>
+      <md-table-cell md-label="City" md-sort-by="city">{{ item.attributes.city }}</md-table-cell>
+      <md-table-cell md-label="State" md-sort-by="state">{{ item.attributes.state }}</md-table-cell>
     </md-table-row>
   </md-table>
 
@@ -35,19 +31,36 @@
 <script>
 import axios from 'axios';
 
+  const toLower = text => {
+    return text.toString().toLowerCase()
+  }
+
+  const searchByName = (items, term) => {
+    if (term) {
+      return items.filter(item => toLower(item.attributes.business_name).includes(toLower(term)))
+    }
+
+    return items
+  }
+
 export default {
   name: 'app',
   data () {
     return {
-      selectedBusiness: null,
-      msg: 'Welcome to Your Vue.js App',
+      search: null,
+      searched: [],
       businesses: []
     }
   },
   created: function () {
     this.fetchData();
+    this.searched = this.businesses
   },
   methods: {
+    searchOnTable () {
+      this.searched = searchByName(this.businesses, this.search)
+    },
+
     fetchData: function () {
       axios.get('http://localhost:8080/api')
       .then(response => {
