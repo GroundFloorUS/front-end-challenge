@@ -6,6 +6,7 @@ import createHistory from 'history/createBrowserHistory'
 import configureStore from './configureStore'
 
 import BusinessList from './components/BusinessList'
+import BusinessPage from './components/BusinessPage'
 
 const history = createHistory()
 const store = configureStore(history)
@@ -15,6 +16,7 @@ const Root = () => (
     <ConnectedRouter history={history}>
       <div>
         <Route exact path='/' component={BusinessList}/>
+        <Route exact path='/businesses/:businessId/' component={BusinessPage}/>
 
       
       </div>

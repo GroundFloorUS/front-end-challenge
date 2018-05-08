@@ -3,7 +3,7 @@ function businessReducer(
   switch (action.type) {
     case 'GET_BUSINESSES':
       return [...action.businesses]
-
+    
     case 'CREATE_BUSINESS':
     return [...state, action.newBusinessData] 
 

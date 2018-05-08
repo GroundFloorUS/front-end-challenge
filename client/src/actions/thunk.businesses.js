@@ -13,18 +13,6 @@ export function getBusinessRoute() {
   }
 }
 
-export function sendOneBusinessToState(businessFromDatabase) {
-  return {type: 'GET_ONE_BUSINESS', businessFromDatabase}
-}
-
-export function getOneBusinessRoute(businessId) {
-  return function (dispatch) {
-    return axios.get(`/businesses/${businessId}`)
-    .then((response) => {
-      dispatch(sendOneBusinessToState(response.data))
-    })
-  }
-}
 
 export function sendNewBusinessToState(newBusinessData) {
   return {type: 'CREATE_BUSINESS', newBusinessData}
