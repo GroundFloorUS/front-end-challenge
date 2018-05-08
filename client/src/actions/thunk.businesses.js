@@ -6,7 +6,7 @@ export function sendBusinessesToState(businessesFromDatabase) {
 
 export function getBusinessRoute() {
   return function (dispatch) {
-    return axios.get('api/businesses')
+    return axios.get('/businesses')
     .then((response) =>{
       dispatch(sendBusinessesToState(response.data))
     })
@@ -19,7 +19,7 @@ export function sendOneBusinessToState(businessFromDatabase) {
 
 export function getOneBusinessRoute(businessId) {
   return function (dispatch) {
-    return axios.get(`/api/businesses/${businessId}`)
+    return axios.get(`/businesses/${businessId}`)
     .then((response) => {
       dispatch(sendOneBusinessToState(response.data))
     })
@@ -32,7 +32,7 @@ export function sendNewBusinessToState(newBusinessData) {
 
 export function sendNewBusinessToDatabase(newBusinessInfo) {
   return function (dispatch) {
-    return axios.post('/api/businesses', newBusinessInfo)
+    return axios.post('/businesses', newBusinessInfo)
     .then((response) => {
       dispatch(sendNewBusinessToState(response.data))
     })
@@ -45,7 +45,7 @@ export function editedBusinessToState(editedBusinessData) {
 
 export function editedBusinessInDatabase(editedBusinessInfo) {
   return function (dispatch) {
-    return axios.patch(`/api/businesses/${editedBusinessInfo.id}`, editedBusinessInfo)
+    return axios.patch(`/businesses/${editedBusinessInfo.id}`, editedBusinessInfo)
     .then((response) => {
       dispatch(editedBusinessToState(editedBusinessInfo))
     })
@@ -58,7 +58,7 @@ export function deleteBusinessFromState(businessToDeleteId) {
 
 export function deleteBusinessFromDatabase(businessToDeleteFromDatabase) {
   return function (dispatch) {
-    return axios.delete(`/api/businesses/${businessToDeleteFromDatabase._id}`)
+    return axios.delete(`/businesses/${businessToDeleteFromDatabase._id}`)
     .then((response) => {
       dispatch(deleteBusinessFromState(businessToDeleteFromDatabase._id))
     })
