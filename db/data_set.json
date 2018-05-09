@@ -8,7 +8,8 @@
       "state": "Michigan",
       "closed": false,
       "latitude": "42.7371",
-      "longitude": "-84.5244"
+      "longitude": "-84.5244",
+      "score": 0
     }
   },
   {
@@ -20,7 +21,8 @@
       "state": "California",
       "closed": false,
       "latitude": "33.8356",
-      "longitude": "-117.9132"
+      "longitude": "-117.9132",
+      "score": 0
     }
   },
   {
@@ -32,7 +34,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "26.1097",
-      "longitude": "-80.3215"
+      "longitude": "-80.3215",
+      "score": 0
     }
   },
   {
@@ -44,7 +47,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.897",
-      "longitude": "-77.0251"
+      "longitude": "-77.0251",
+      "score": 0
     }
   },
   {
@@ -56,7 +60,8 @@
       "state": "Minnesota",
       "closed": false,
       "latitude": "45.5289",
-      "longitude": "-94.5933"
+      "longitude": "-94.5933",
+      "score": 0
     }
   },
   {
@@ -68,7 +73,8 @@
       "state": "North Carolina",
       "closed": false,
       "latitude": "35.7977",
-      "longitude": "-78.6253"
+      "longitude": "-78.6253",
+      "score": 0
     }
   },
   {
@@ -80,7 +86,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "25.7559",
-      "longitude": "-80.2013"
+      "longitude": "-80.2013",
+      "score": 0
     }
   },
   {
@@ -92,7 +99,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "41.2722",
-      "longitude": "-75.8801"
+      "longitude": "-75.8801",
+      "score": 0
     }
   },
   {
@@ -104,7 +112,8 @@
       "state": "Massachusetts",
       "closed": true,
       "latitude": "42.36",
-      "longitude": "-71.0545"
+      "longitude": "-71.0545",
+      "score": 0
     }
   },
   {
@@ -116,7 +125,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "28.072",
-      "longitude": "-81.9609"
+      "longitude": "-81.9609",
+      "score": 0
     }
   },
   {
@@ -128,7 +138,8 @@
       "state": "Connecticut",
       "closed": true,
       "latitude": "41.2091",
-      "longitude": "-73.2086"
+      "longitude": "-73.2086",
+      "score": 0
     }
   },
   {
@@ -140,7 +151,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "40.2785",
-      "longitude": "-76.8752"
+      "longitude": "-76.8752",
+      "score": 0
     }
   },
   {
@@ -152,7 +164,8 @@
       "state": "New Jersey",
       "closed": false,
       "latitude": "40.9252",
-      "longitude": "-74.1781"
+      "longitude": "-74.1781",
+      "score": 0
     }
   },
   {
@@ -164,7 +177,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "30.3264",
-      "longitude": "-97.7713"
+      "longitude": "-97.7713",
+      "score": 0
     }
   },
   {
@@ -176,7 +190,8 @@
       "state": "Virginia",
       "closed": false,
       "latitude": "36.9312",
-      "longitude": "-76.2397"
+      "longitude": "-76.2397",
+      "score": 0
     }
   },
   {
@@ -188,7 +203,8 @@
       "state": "Indiana",
       "closed": true,
       "latitude": "41.0938",
-      "longitude": "-85.0707"
+      "longitude": "-85.0707",
+      "score": 0
     }
   },
   {
@@ -200,7 +216,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "40.9177",
-      "longitude": "-73.895"
+      "longitude": "-73.895",
+      "score": 0
     }
   },
   {
@@ -212,7 +229,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.3894",
-      "longitude": "-121.8868"
+      "longitude": "-121.8868",
+      "score": 0
     }
   },
   {
@@ -224,7 +242,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "28.2059",
-      "longitude": "-82.3063"
+      "longitude": "-82.3063",
+      "score": 0
     }
   },
   {
@@ -236,7 +255,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "31.6948",
-      "longitude": "-106.3"
+      "longitude": "-106.3",
+      "score": 0
     }
   },
   {
@@ -248,7 +268,8 @@
       "state": "Illinois",
       "closed": true,
       "latitude": "40.7442",
-      "longitude": "-89.7184"
+      "longitude": "-89.7184",
+      "score": 0
     }
   },
   {
@@ -260,7 +281,8 @@
       "state": "California",
       "closed": true,
       "latitude": "33.7678",
-      "longitude": "-118.1994"
+      "longitude": "-118.1994",
+      "score": 0
     }
   },
   {
@@ -272,7 +294,8 @@
       "state": "California",
       "closed": false,
       "latitude": "36.7991",
-      "longitude": "-119.8016"
+      "longitude": "-119.8016",
+      "score": 0
     }
   },
   {
@@ -284,7 +307,8 @@
       "state": "Arizona",
       "closed": false,
       "latitude": "33.2781",
-      "longitude": "-111.7096"
+      "longitude": "-111.7096",
+      "score": 0
     }
   },
   {
@@ -296,7 +320,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "26.3771",
-      "longitude": "-81.7334"
+      "longitude": "-81.7334",
+      "score": 0
     }
   },
   {
@@ -308,7 +333,8 @@
       "state": "Louisiana",
       "closed": true,
       "latitude": "32.6076",
-      "longitude": "-93.7526"
+      "longitude": "-93.7526",
+      "score": 0
     }
   },
   {
@@ -320,7 +346,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "29.7853",
-      "longitude": "-95.1852"
+      "longitude": "-95.1852",
+      "score": 0
     }
   },
   {
@@ -332,7 +359,8 @@
       "state": "Arizona",
       "closed": false,
       "latitude": "33.4368",
-      "longitude": "-111.7129"
+      "longitude": "-111.7129",
+      "score": 0
     }
   },
   {
@@ -344,7 +372,8 @@
       "state": "California",
       "closed": false,
       "latitude": "36.7991",
-      "longitude": "-119.8016"
+      "longitude": "-119.8016",
+      "score": 0
     }
   },
   {
@@ -356,7 +385,8 @@
       "state": "Pennsylvania",
       "closed": true,
       "latitude": "40.338",
-      "longitude": "-75.978"
+      "longitude": "-75.978",
+      "score": 0
     }
   },
   {
@@ -368,7 +398,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.7848",
-      "longitude": "-122.7278"
+      "longitude": "-122.7278",
+      "score": 0
     }
   },
   {
@@ -380,7 +411,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "32.0175",
-      "longitude": "-80.997"
+      "longitude": "-80.997",
+      "score": 0
     }
   },
   {
@@ -392,7 +424,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "28.5469",
-      "longitude": "-81.2571"
+      "longitude": "-81.2571",
+      "score": 0
     }
   },
   {
@@ -404,7 +437,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "40.7808",
-      "longitude": "-73.9772"
+      "longitude": "-73.9772",
+      "score": 0
     }
   },
   {
@@ -416,7 +450,8 @@
       "state": "Maryland",
       "closed": false,
       "latitude": "39.5207",
-      "longitude": "-77.9162"
+      "longitude": "-77.9162",
+      "score": 0
     }
   },
   {
@@ -428,7 +463,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "39.1075",
-      "longitude": "-84.5257"
+      "longitude": "-84.5257",
+      "score": 0
     }
   },
   {
@@ -440,7 +476,8 @@
       "state": "Tennessee",
       "closed": false,
       "latitude": "35.0981",
-      "longitude": "-89.9825"
+      "longitude": "-89.9825",
+      "score": 0
     }
   },
   {
@@ -452,7 +489,8 @@
       "state": "California",
       "closed": false,
       "latitude": "34.84",
-      "longitude": "-115.9671"
+      "longitude": "-115.9671",
+      "score": 0
     }
   },
   {
@@ -464,7 +502,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "27.9246",
-      "longitude": "-80.5235"
+      "longitude": "-80.5235",
+      "score": 0
     }
   },
   {
@@ -476,7 +515,8 @@
       "state": "Wisconsin",
       "closed": true,
       "latitude": "42.9559",
-      "longitude": "-87.9933"
+      "longitude": "-87.9933",
+      "score": 0
     }
   },
   {
@@ -488,7 +528,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "40.7808",
-      "longitude": "-73.9772"
+      "longitude": "-73.9772",
+      "score": 0
     }
   },
   {
@@ -500,7 +541,8 @@
       "state": "Arizona",
       "closed": false,
       "latitude": "32.0848",
-      "longitude": "-110.7122"
+      "longitude": "-110.7122",
+      "score": 0
     }
   },
   {
@@ -512,7 +554,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "25.768",
-      "longitude": "-80.2714"
+      "longitude": "-80.2714",
+      "score": 0
     }
   },
   {
@@ -524,7 +567,8 @@
       "state": "New Jersey",
       "closed": false,
       "latitude": "40.2805",
-      "longitude": "-74.712"
+      "longitude": "-74.712",
+      "score": 0
     }
   },
   {
@@ -536,7 +580,8 @@
       "state": "Utah",
       "closed": true,
       "latitude": "40.7372",
-      "longitude": "-111.8581"
+      "longitude": "-111.8581",
+      "score": 0
     }
   },
   {
@@ -548,7 +593,8 @@
       "state": "Kansas",
       "closed": true,
       "latitude": "38.9613",
-      "longitude": "-94.8222"
+      "longitude": "-94.8222",
+      "score": 0
     }
   },
   {
@@ -560,7 +606,8 @@
       "state": "Oklahoma",
       "closed": true,
       "latitude": "36.1398",
-      "longitude": "-96.0297"
+      "longitude": "-96.0297",
+      "score": 0
     }
   },
   {
@@ -572,7 +619,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "25.813",
-      "longitude": "-80.232"
+      "longitude": "-80.232",
+      "score": 0
     }
   },
   {
@@ -584,7 +632,8 @@
       "state": "Ohio",
       "closed": false,
       "latitude": "39.9671",
-      "longitude": "-83.0044"
+      "longitude": "-83.0044",
+      "score": 0
     }
   },
   {
@@ -596,7 +645,8 @@
       "state": "Tennessee",
       "closed": true,
       "latitude": "36.032",
-      "longitude": "-83.8021"
+      "longitude": "-83.8021",
+      "score": 0
     }
   },
   {
@@ -608,7 +658,8 @@
       "state": "California",
       "closed": true,
       "latitude": "38.3774",
-      "longitude": "-121.4444"
+      "longitude": "-121.4444",
+      "score": 0
     }
   },
   {
@@ -620,7 +671,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "33.0005",
-      "longitude": "-96.8314"
+      "longitude": "-96.8314",
+      "score": 0
     }
   },
   {
@@ -632,7 +684,8 @@
       "state": "South Carolina",
       "closed": true,
       "latitude": "34.8497",
-      "longitude": "-82.4538"
+      "longitude": "-82.4538",
+      "score": 0
     }
   },
   {
@@ -644,7 +697,8 @@
       "state": "Arizona",
       "closed": false,
       "latitude": "32.4142",
-      "longitude": "-110.9466"
+      "longitude": "-110.9466",
+      "score": 0
     }
   },
   {
@@ -656,7 +710,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "40.7808",
-      "longitude": "-73.9772"
+      "longitude": "-73.9772",
+      "score": 0
     }
   },
   {
@@ -668,7 +723,8 @@
       "state": "California",
       "closed": false,
       "latitude": "38.4631",
-      "longitude": "-122.99"
+      "longitude": "-122.99",
+      "score": 0
     }
   },
   {
@@ -680,7 +736,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "40.4344",
-      "longitude": "-80.0248"
+      "longitude": "-80.0248",
+      "score": 0
     }
   },
   {
@@ -692,7 +749,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "26.3771",
-      "longitude": "-81.7334"
+      "longitude": "-81.7334",
+      "score": 0
     }
   },
   {
@@ -704,7 +762,8 @@
       "state": "California",
       "closed": false,
       "latitude": "38.3774",
-      "longitude": "-121.4444"
+      "longitude": "-121.4444",
+      "score": 0
     }
   },
   {
@@ -716,7 +775,8 @@
       "state": "Wisconsin",
       "closed": false,
       "latitude": "43.073",
-      "longitude": "-89.4528"
+      "longitude": "-89.4528",
+      "score": 0
     }
   },
   {
@@ -728,7 +788,8 @@
       "state": "Illinois",
       "closed": true,
       "latitude": "41.8119",
-      "longitude": "-87.6873"
+      "longitude": "-87.6873",
+      "score": 0
     }
   },
   {
@@ -740,7 +801,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "32.5161",
-      "longitude": "-84.9785"
+      "longitude": "-84.9785",
+      "score": 0
     }
   },
   {
@@ -752,7 +814,8 @@
       "state": "Colorado",
       "closed": true,
       "latitude": "38.1286",
-      "longitude": "-104.5523"
+      "longitude": "-104.5523",
+      "score": 0
     }
   },
   {
@@ -764,7 +827,8 @@
       "state": "California",
       "closed": false,
       "latitude": "33.7866",
-      "longitude": "-118.2987"
+      "longitude": "-118.2987",
+      "score": 0
     }
   },
   {
@@ -776,7 +840,8 @@
       "state": "District of Columbia",
       "closed": true,
       "latitude": "38.8933",
-      "longitude": "-77.0146"
+      "longitude": "-77.0146",
+      "score": 0
     }
   },
   {
@@ -788,7 +853,8 @@
       "state": "Alabama",
       "closed": true,
       "latitude": "33.3538",
-      "longitude": "-86.8254"
+      "longitude": "-86.8254",
+      "score": 0
     }
   },
   {
@@ -800,7 +866,8 @@
       "state": "Kansas",
       "closed": false,
       "latitude": "37.7639",
-      "longitude": "-97.4269"
+      "longitude": "-97.4269",
+      "score": 0
     }
   },
   {
@@ -812,7 +879,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "32.8479",
-      "longitude": "-96.974"
+      "longitude": "-96.974",
+      "score": 0
     }
   },
   {
@@ -824,7 +892,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "26.1457",
-      "longitude": "-80.4483"
+      "longitude": "-80.4483",
+      "score": 0
     }
   },
   {
@@ -836,7 +905,8 @@
       "state": "North Carolina",
       "closed": false,
       "latitude": "35.0583",
-      "longitude": "-79.008"
+      "longitude": "-79.008",
+      "score": 0
     }
   },
   {
@@ -848,7 +918,8 @@
       "state": "West Virginia",
       "closed": true,
       "latitude": "38.4134",
-      "longitude": "-82.2774"
+      "longitude": "-82.2774",
+      "score": 0
     }
   },
   {
@@ -860,7 +931,8 @@
       "state": "California",
       "closed": false,
       "latitude": "34.0531",
-      "longitude": "-118.3806"
+      "longitude": "-118.3806",
+      "score": 0
     }
   },
   {
@@ -872,7 +944,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "39.1092",
-      "longitude": "-84.6108"
+      "longitude": "-84.6108",
+      "score": 0
     }
   },
   {
@@ -884,7 +957,8 @@
       "state": "California",
       "closed": true,
       "latitude": "33.7866",
-      "longitude": "-118.2987"
+      "longitude": "-118.2987",
+      "score": 0
     }
   },
   {
@@ -896,7 +970,8 @@
       "state": "California",
       "closed": false,
       "latitude": "37.31",
-      "longitude": "-121.9011"
+      "longitude": "-121.9011",
+      "score": 0
     }
   },
   {
@@ -908,7 +983,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "32.432",
-      "longitude": "-99.7724"
+      "longitude": "-99.7724",
+      "score": 0
     }
   },
   {
@@ -920,7 +996,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "32.7714",
-      "longitude": "-97.2915"
+      "longitude": "-97.2915",
+      "score": 0
     }
   },
   {
@@ -932,7 +1009,8 @@
       "state": "Louisiana",
       "closed": false,
       "latitude": "29.9686",
-      "longitude": "-90.0646"
+      "longitude": "-90.0646",
+      "score": 0
     }
   },
   {
@@ -944,7 +1022,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "32.8118",
-      "longitude": "-83.565"
+      "longitude": "-83.565",
+      "score": 0
     }
   },
   {
@@ -956,7 +1035,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "42.3189",
-      "longitude": "-85.5152"
+      "longitude": "-85.5152",
+      "score": 0
     }
   },
   {
@@ -968,7 +1048,8 @@
       "state": "Connecticut",
       "closed": true,
       "latitude": "41.3087",
-      "longitude": "-72.9271"
+      "longitude": "-72.9271",
+      "score": 0
     }
   },
   {
@@ -980,7 +1061,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "41.6538",
-      "longitude": "-83.6589"
+      "longitude": "-83.6589",
+      "score": 0
     }
   },
   {
@@ -992,7 +1074,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "40.7262",
-      "longitude": "-73.9796"
+      "longitude": "-73.9796",
+      "score": 0
     }
   },
   {
@@ -1004,7 +1087,8 @@
       "state": "Minnesota",
       "closed": true,
       "latitude": "45.1907",
-      "longitude": "-93.3021"
+      "longitude": "-93.3021",
+      "score": 0
     }
   },
   {
@@ -1016,7 +1100,8 @@
       "state": "Arizona",
       "closed": true,
       "latitude": "33.6968",
-      "longitude": "-111.8892"
+      "longitude": "-111.8892",
+      "score": 0
     }
   },
   {
@@ -1028,7 +1113,8 @@
       "state": "Pennsylvania",
       "closed": true,
       "latitude": "40.4344",
-      "longitude": "-80.0248"
+      "longitude": "-80.0248",
+      "score": 0
     }
   },
   {
@@ -1040,7 +1126,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.7543",
-      "longitude": "-73.9798"
+      "longitude": "-73.9798",
+      "score": 0
     }
   },
   {
@@ -1052,7 +1139,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.7808",
-      "longitude": "-73.9772"
+      "longitude": "-73.9772",
+      "score": 0
     }
   },
   {
@@ -1064,7 +1152,8 @@
       "state": "Tennessee",
       "closed": true,
       "latitude": "35.9901",
-      "longitude": "-83.9622"
+      "longitude": "-83.9622",
+      "score": 0
     }
   },
   {
@@ -1076,7 +1165,8 @@
       "state": "Michigan",
       "closed": false,
       "latitude": "42.7371",
-      "longitude": "-84.5244"
+      "longitude": "-84.5244",
+      "score": 0
     }
   },
   {
@@ -1088,7 +1178,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "27.9671",
-      "longitude": "-82.4334"
+      "longitude": "-82.4334",
+      "score": 0
     }
   },
   {
@@ -1100,7 +1191,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "29.6701",
-      "longitude": "-98.6873"
+      "longitude": "-98.6873",
+      "score": 0
     }
   },
   {
@@ -1112,7 +1204,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "25.8594",
-      "longitude": "-80.2725"
+      "longitude": "-80.2725",
+      "score": 0
     }
   },
   {
@@ -1124,7 +1217,8 @@
       "state": "South Carolina",
       "closed": false,
       "latitude": "32.7831",
-      "longitude": "-79.937"
+      "longitude": "-79.937",
+      "score": 0
     }
   },
   {
@@ -1136,7 +1230,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "30.3449",
-      "longitude": "-81.6831"
+      "longitude": "-81.6831",
+      "score": 0
     }
   },
   {
@@ -1148,7 +1243,8 @@
       "state": "Virginia",
       "closed": true,
       "latitude": "38.9776",
-      "longitude": "-77.386"
+      "longitude": "-77.386",
+      "score": 0
     }
   },
   {
@@ -1160,7 +1256,8 @@
       "state": "California",
       "closed": false,
       "latitude": "33.7866",
-      "longitude": "-118.2987"
+      "longitude": "-118.2987",
+      "score": 0
     }
   },
   {
@@ -1172,7 +1269,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "39.7505",
-      "longitude": "-84.2686"
+      "longitude": "-84.2686",
+      "score": 0
     }
   },
   {
@@ -1184,7 +1282,8 @@
       "state": "Kansas",
       "closed": false,
       "latitude": "39.116",
-      "longitude": "-94.764"
+      "longitude": "-94.764",
+      "score": 0
     }
   },
   {
@@ -1196,7 +1295,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "40.0086",
-      "longitude": "-76.5972"
+      "longitude": "-76.5972",
+      "score": 0
     }
   },
   {
@@ -1208,7 +1308,8 @@
       "state": "Oklahoma",
       "closed": false,
       "latitude": "36.1398",
-      "longitude": "-96.0297"
+      "longitude": "-96.0297",
+      "score": 0
     }
   },
   {
@@ -1220,7 +1321,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "28.072",
-      "longitude": "-81.9609"
+      "longitude": "-81.9609",
+      "score": 0
     }
   },
   {
@@ -1232,7 +1334,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "26.6104",
-      "longitude": "-80.1683"
+      "longitude": "-80.1683",
+      "score": 0
     }
   },
   {
@@ -1244,7 +1347,8 @@
       "state": "Kentucky",
       "closed": false,
       "latitude": "37.9651",
-      "longitude": "-84.4708"
+      "longitude": "-84.4708",
+      "score": 0
     }
   },
   {
@@ -1256,7 +1360,8 @@
       "state": "Louisiana",
       "closed": false,
       "latitude": "30.0005",
-      "longitude": "-90.1331"
+      "longitude": "-90.1331",
+      "score": 0
     }
   },
   {
@@ -1268,7 +1373,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "41.6538",
-      "longitude": "-83.6589"
+      "longitude": "-83.6589",
+      "score": 0
     }
   },
   {
@@ -1280,7 +1386,8 @@
       "state": "California",
       "closed": true,
       "latitude": "33.6773",
-      "longitude": "-118.0051"
+      "longitude": "-118.0051",
+      "score": 0
     }
   },
   {
@@ -1292,7 +1399,8 @@
       "state": "South Carolina",
       "closed": true,
       "latitude": "34.8497",
-      "longitude": "-82.4538"
+      "longitude": "-82.4538",
+      "score": 0
     }
   },
   {
@@ -1304,7 +1412,8 @@
       "state": "Virginia",
       "closed": true,
       "latitude": "36.8926",
-      "longitude": "-76.5142"
+      "longitude": "-76.5142",
+      "score": 0
     }
   },
   {
@@ -1316,7 +1425,8 @@
       "state": "Indiana",
       "closed": false,
       "latitude": "37.9971",
-      "longitude": "-87.575"
+      "longitude": "-87.575",
+      "score": 0
     }
   },
   {
@@ -1328,7 +1438,8 @@
       "state": "Georgia",
       "closed": true,
       "latitude": "33.8444",
-      "longitude": "-84.474"
+      "longitude": "-84.474",
+      "score": 0
     }
   },
   {
@@ -1340,7 +1451,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "26.2626",
-      "longitude": "-81.8071"
+      "longitude": "-81.8071",
+      "score": 0
     }
   },
   {
@@ -1352,7 +1464,8 @@
       "state": "Colorado",
       "closed": false,
       "latitude": "38.8289",
-      "longitude": "-104.5269"
+      "longitude": "-104.5269",
+      "score": 0
     }
   },
   {
@@ -1364,7 +1477,8 @@
       "state": "California",
       "closed": false,
       "latitude": "37.8044",
-      "longitude": "-122.2698"
+      "longitude": "-122.2698",
+      "score": 0
     }
   },
   {
@@ -1376,7 +1490,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.8933",
-      "longitude": "-77.0146"
+      "longitude": "-77.0146",
+      "score": 0
     }
   },
   {
@@ -1388,7 +1503,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "39.2692",
-      "longitude": "-84.3307"
+      "longitude": "-84.3307",
+      "score": 0
     }
   },
   {
@@ -1400,7 +1516,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "27.9694",
-      "longitude": "-80.6473"
+      "longitude": "-80.6473",
+      "score": 0
     }
   },
   {
@@ -1412,7 +1529,8 @@
       "state": "Indiana",
       "closed": true,
       "latitude": "41.5878",
-      "longitude": "-87.4062"
+      "longitude": "-87.4062",
+      "score": 0
     }
   },
   {
@@ -1424,7 +1542,8 @@
       "state": "Kentucky",
       "closed": false,
       "latitude": "38.1913",
-      "longitude": "-85.7847"
+      "longitude": "-85.7847",
+      "score": 0
     }
   },
   {
@@ -1436,7 +1555,8 @@
       "state": "Michigan",
       "closed": false,
       "latitude": "42.2399",
-      "longitude": "-83.1508"
+      "longitude": "-83.1508",
+      "score": 0
     }
   },
   {
@@ -1448,7 +1568,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "27.777",
-      "longitude": "-97.4632"
+      "longitude": "-97.4632",
+      "score": 0
     }
   },
   {
@@ -1460,7 +1581,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "40.7779",
-      "longitude": "-82.4613"
+      "longitude": "-82.4613",
+      "score": 0
     }
   },
   {
@@ -1472,7 +1594,8 @@
       "state": "Washington",
       "closed": true,
       "latitude": "47.368",
-      "longitude": "-122.1206"
+      "longitude": "-122.1206",
+      "score": 0
     }
   },
   {
@@ -1484,7 +1607,8 @@
       "state": "Utah",
       "closed": false,
       "latitude": "40.7286",
-      "longitude": "-111.6627"
+      "longitude": "-111.6627",
+      "score": 0
     }
   },
   {
@@ -1496,7 +1620,8 @@
       "state": "Alabama",
       "closed": true,
       "latitude": "32.404",
-      "longitude": "-86.2539"
+      "longitude": "-86.2539",
+      "score": 0
     }
   },
   {
@@ -1508,7 +1633,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "30.3264",
-      "longitude": "-97.7713"
+      "longitude": "-97.7713",
+      "score": 0
     }
   },
   {
@@ -1520,7 +1646,8 @@
       "state": "Missouri",
       "closed": false,
       "latitude": "38.6185",
-      "longitude": "-90.2564"
+      "longitude": "-90.2564",
+      "score": 0
     }
   },
   {
@@ -1532,7 +1659,8 @@
       "state": "Kansas",
       "closed": false,
       "latitude": "37.7667",
-      "longitude": "-97.2805"
+      "longitude": "-97.2805",
+      "score": 0
     }
   },
   {
@@ -1544,7 +1672,8 @@
       "state": "California",
       "closed": false,
       "latitude": "34.84",
-      "longitude": "-115.9671"
+      "longitude": "-115.9671",
+      "score": 0
     }
   },
   {
@@ -1556,7 +1685,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "42.8614",
-      "longitude": "-78.8206"
+      "longitude": "-78.8206",
+      "score": 0
     }
   },
   {
@@ -1568,7 +1698,8 @@
       "state": "Kentucky",
       "closed": false,
       "latitude": "38.2222",
-      "longitude": "-85.6885"
+      "longitude": "-85.6885",
+      "score": 0
     }
   },
   {
@@ -1580,7 +1711,8 @@
       "state": "Washington",
       "closed": false,
       "latitude": "46.6288",
-      "longitude": "-120.574"
+      "longitude": "-120.574",
+      "score": 0
     }
   },
   {
@@ -1592,7 +1724,8 @@
       "state": "Tennessee",
       "closed": false,
       "latitude": "35.6124",
-      "longitude": "-88.8412"
+      "longitude": "-88.8412",
+      "score": 0
     }
   },
   {
@@ -1604,7 +1737,8 @@
       "state": "Vermont",
       "closed": false,
       "latitude": "44.2595",
-      "longitude": "-72.585"
+      "longitude": "-72.585",
+      "score": 0
     }
   },
   {
@@ -1616,7 +1750,8 @@
       "state": "Utah",
       "closed": true,
       "latitude": "40.7372",
-      "longitude": "-111.8581"
+      "longitude": "-111.8581",
+      "score": 0
     }
   },
   {
@@ -1628,7 +1763,8 @@
       "state": "Nebraska",
       "closed": true,
       "latitude": "41.2064",
-      "longitude": "-95.9953"
+      "longitude": "-95.9953",
+      "score": 0
     }
   },
   {
@@ -1640,7 +1776,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.7105",
-      "longitude": "-74.0163"
+      "longitude": "-74.0163",
+      "score": 0
     }
   },
   {
@@ -1652,7 +1789,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.7848",
-      "longitude": "-122.7278"
+      "longitude": "-122.7278",
+      "score": 0
     }
   },
   {
@@ -1664,7 +1802,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.905",
-      "longitude": "-77.0162"
+      "longitude": "-77.0162",
+      "score": 0
     }
   },
   {
@@ -1676,7 +1815,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "28.0173",
-      "longitude": "-82.7461"
+      "longitude": "-82.7461",
+      "score": 0
     }
   },
   {
@@ -1688,7 +1828,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "26.5354",
-      "longitude": "-80.1124"
+      "longitude": "-80.1124",
+      "score": 0
     }
   },
   {
@@ -1700,7 +1841,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "42.7684",
-      "longitude": "-78.8871"
+      "longitude": "-78.8871",
+      "score": 0
     }
   },
   {
@@ -1712,7 +1854,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "30.0167",
-      "longitude": "-95.447"
+      "longitude": "-95.447",
+      "score": 0
     }
   },
   {
@@ -1724,7 +1867,8 @@
       "state": "California",
       "closed": false,
       "latitude": "33.7862",
-      "longitude": "-117.9309"
+      "longitude": "-117.9309",
+      "score": 0
     }
   },
   {
@@ -1736,7 +1880,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "29.3494",
-      "longitude": "-98.4422"
+      "longitude": "-98.4422",
+      "score": 0
     }
   },
   {
@@ -1748,7 +1893,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.7526",
-      "longitude": "-73.9755"
+      "longitude": "-73.9755",
+      "score": 0
     }
   },
   {
@@ -1760,7 +1906,8 @@
       "state": "Ohio",
       "closed": false,
       "latitude": "39.7505",
-      "longitude": "-84.2686"
+      "longitude": "-84.2686",
+      "score": 0
     }
   },
   {
@@ -1772,7 +1919,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "27.777",
-      "longitude": "-97.4632"
+      "longitude": "-97.4632",
+      "score": 0
     }
   },
   {
@@ -1784,7 +1932,8 @@
       "state": "Massachusetts",
       "closed": true,
       "latitude": "42.362",
-      "longitude": "-71.083"
+      "longitude": "-71.083",
+      "score": 0
     }
   },
   {
@@ -1796,7 +1945,8 @@
       "state": "Ohio",
       "closed": false,
       "latitude": "39.969",
-      "longitude": "-83.0114"
+      "longitude": "-83.0114",
+      "score": 0
     }
   },
   {
@@ -1808,7 +1958,8 @@
       "state": "Louisiana",
       "closed": true,
       "latitude": "29.9686",
-      "longitude": "-90.0646"
+      "longitude": "-90.0646",
+      "score": 0
     }
   },
   {
@@ -1820,7 +1971,8 @@
       "state": "Louisiana",
       "closed": true,
       "latitude": "30.2081",
-      "longitude": "-92.0951"
+      "longitude": "-92.0951",
+      "score": 0
     }
   },
   {
@@ -1832,7 +1984,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "30.2407",
-      "longitude": "-81.893"
+      "longitude": "-81.893",
+      "score": 0
     }
   },
   {
@@ -1844,7 +1997,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "43.286",
-      "longitude": "-77.6843"
+      "longitude": "-77.6843",
+      "score": 0
     }
   },
   {
@@ -1856,7 +2010,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.897",
-      "longitude": "-77.0251"
+      "longitude": "-77.0251",
+      "score": 0
     }
   },
   {
@@ -1868,7 +2023,8 @@
       "state": "Pennsylvania",
       "closed": true,
       "latitude": "40.0018",
-      "longitude": "-75.1179"
+      "longitude": "-75.1179",
+      "score": 0
     }
   },
   {
@@ -1880,7 +2036,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "31.3902",
-      "longitude": "-97.7993"
+      "longitude": "-97.7993",
+      "score": 0
     }
   },
   {
@@ -1892,7 +2049,8 @@
       "state": "Indiana",
       "closed": true,
       "latitude": "39.7851",
-      "longitude": "-86.1595"
+      "longitude": "-86.1595",
+      "score": 0
     }
   },
   {
@@ -1904,7 +2062,8 @@
       "state": "Indiana",
       "closed": true,
       "latitude": "40.04",
-      "longitude": "-86.8936"
+      "longitude": "-86.8936",
+      "score": 0
     }
   },
   {
@@ -1916,7 +2075,8 @@
       "state": "District of Columbia",
       "closed": true,
       "latitude": "38.892",
-      "longitude": "-77.0452"
+      "longitude": "-77.0452",
+      "score": 0
     }
   },
   {
@@ -1928,7 +2088,8 @@
       "state": "California",
       "closed": false,
       "latitude": "35.2944",
-      "longitude": "-118.9052"
+      "longitude": "-118.9052",
+      "score": 0
     }
   },
   {
@@ -1940,7 +2101,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.7772",
-      "longitude": "-121.9554"
+      "longitude": "-121.9554",
+      "score": 0
     }
   },
   {
@@ -1952,7 +2114,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "41.1287",
-      "longitude": "-81.54"
+      "longitude": "-81.54",
+      "score": 0
     }
   },
   {
@@ -1964,7 +2127,8 @@
       "state": "Massachusetts",
       "closed": false,
       "latitude": "41.9705",
-      "longitude": "-70.7014"
+      "longitude": "-70.7014",
+      "score": 0
     }
   },
   {
@@ -1976,7 +2140,8 @@
       "state": "Illinois",
       "closed": false,
       "latitude": "41.8756",
-      "longitude": "-87.6378"
+      "longitude": "-87.6378",
+      "score": 0
     }
   },
   {
@@ -1988,7 +2153,8 @@
       "state": "Tennessee",
       "closed": false,
       "latitude": "35.9924",
-      "longitude": "-84.1201"
+      "longitude": "-84.1201",
+      "score": 0
     }
   },
   {
@@ -2000,7 +2166,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "31.1282",
-      "longitude": "-97.7469"
+      "longitude": "-97.7469",
+      "score": 0
     }
   },
   {
@@ -2012,7 +2179,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "42.6568",
-      "longitude": "-73.7605"
+      "longitude": "-73.7605",
+      "score": 0
     }
   },
   {
@@ -2024,7 +2192,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "42.6149",
-      "longitude": "-73.9708"
+      "longitude": "-73.9708",
+      "score": 0
     }
   },
   {
@@ -2036,7 +2205,8 @@
       "state": "Washington",
       "closed": true,
       "latitude": "47.6536",
-      "longitude": "-117.4317"
+      "longitude": "-117.4317",
+      "score": 0
     }
   },
   {
@@ -2048,7 +2218,8 @@
       "state": "Delaware",
       "closed": true,
       "latitude": "39.8188",
-      "longitude": "-75.5064"
+      "longitude": "-75.5064",
+      "score": 0
     }
   },
   {
@@ -2060,7 +2231,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "43.0421",
-      "longitude": "-76.1046"
+      "longitude": "-76.1046",
+      "score": 0
     }
   },
   {
@@ -2072,7 +2244,8 @@
       "state": "Oklahoma",
       "closed": true,
       "latitude": "35.5514",
-      "longitude": "-97.4075"
+      "longitude": "-97.4075",
+      "score": 0
     }
   },
   {
@@ -2084,7 +2257,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.7086",
-      "longitude": "-74.0087"
+      "longitude": "-74.0087",
+      "score": 0
     }
   },
   {
@@ -2096,7 +2270,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "41.6538",
-      "longitude": "-83.6589"
+      "longitude": "-83.6589",
+      "score": 0
     }
   },
   {
@@ -2108,7 +2283,8 @@
       "state": "Maryland",
       "closed": false,
       "latitude": "39.2856",
-      "longitude": "-76.6899"
+      "longitude": "-76.6899",
+      "score": 0
     }
   },
   {
@@ -2120,7 +2296,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "33.8913",
-      "longitude": "-84.0746"
+      "longitude": "-84.0746",
+      "score": 0
     }
   },
   {
@@ -2132,7 +2309,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.7848",
-      "longitude": "-122.7278"
+      "longitude": "-122.7278",
+      "score": 0
     }
   },
   {
@@ -2144,7 +2322,8 @@
       "state": "Missouri",
       "closed": true,
       "latitude": "38.9621",
-      "longitude": "-94.5959"
+      "longitude": "-94.5959",
+      "score": 0
     }
   },
   {
@@ -2156,7 +2335,8 @@
       "state": "North Carolina",
       "closed": true,
       "latitude": "36.0512",
-      "longitude": "-78.8577"
+      "longitude": "-78.8577",
+      "score": 0
     }
   },
   {
@@ -2168,7 +2348,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "43.0113",
-      "longitude": "-83.7108"
+      "longitude": "-83.7108",
+      "score": 0
     }
   },
   {
@@ -2180,7 +2361,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "42.7286",
-      "longitude": "-84.5517"
+      "longitude": "-84.5517",
+      "score": 0
     }
   },
   {
@@ -2192,7 +2374,8 @@
       "state": "California",
       "closed": true,
       "latitude": "33.9631",
-      "longitude": "-118.3941"
+      "longitude": "-118.3941",
+      "score": 0
     }
   },
   {
@@ -2204,7 +2387,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "42.0869",
-      "longitude": "-76.8397"
+      "longitude": "-76.8397",
+      "score": 0
     }
   },
   {
@@ -2216,7 +2400,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "32.8067",
-      "longitude": "-83.6913"
+      "longitude": "-83.6913",
+      "score": 0
     }
   },
   {
@@ -2228,7 +2413,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "29.834",
-      "longitude": "-95.4342"
+      "longitude": "-95.4342",
+      "score": 0
     }
   },
   {
@@ -2240,7 +2426,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "31.5175",
-      "longitude": "-97.1547"
+      "longitude": "-97.1547",
+      "score": 0
     }
   },
   {
@@ -2252,7 +2439,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "33.6021",
-      "longitude": "-101.876"
+      "longitude": "-101.876",
+      "score": 0
     }
   },
   {
@@ -2264,7 +2452,8 @@
       "state": "South Carolina",
       "closed": true,
       "latitude": "34.8882",
-      "longitude": "-81.969"
+      "longitude": "-81.969",
+      "score": 0
     }
   },
   {
@@ -2276,7 +2465,8 @@
       "state": "Missouri",
       "closed": false,
       "latitude": "38.8518",
-      "longitude": "-94.3944"
+      "longitude": "-94.3944",
+      "score": 0
     }
   },
   {
@@ -2288,7 +2478,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "28.4429",
-      "longitude": "-81.4026"
+      "longitude": "-81.4026",
+      "score": 0
     }
   },
   {
@@ -2300,7 +2491,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "43.0113",
-      "longitude": "-83.7108"
+      "longitude": "-83.7108",
+      "score": 0
     }
   },
   {
@@ -2312,7 +2504,8 @@
       "state": "Colorado",
       "closed": true,
       "latitude": "39.9807",
-      "longitude": "-105.2531"
+      "longitude": "-105.2531",
+      "score": 0
     }
   },
   {
@@ -2324,7 +2517,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "42.7684",
-      "longitude": "-78.8871"
+      "longitude": "-78.8871",
+      "score": 0
     }
   },
   {
@@ -2336,7 +2530,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "31.6948",
-      "longitude": "-106.3"
+      "longitude": "-106.3",
+      "score": 0
     }
   },
   {
@@ -2348,7 +2543,8 @@
       "state": "Indiana",
       "closed": true,
       "latitude": "38.2868",
-      "longitude": "-85.7321"
+      "longitude": "-85.7321",
+      "score": 0
     }
   },
   {
@@ -2360,7 +2556,8 @@
       "state": "Maryland",
       "closed": true,
       "latitude": "39.0763",
-      "longitude": "-77.1234"
+      "longitude": "-77.1234",
+      "score": 0
     }
   },
   {
@@ -2372,7 +2569,8 @@
       "state": "Wisconsin",
       "closed": true,
       "latitude": "43.0696",
-      "longitude": "-89.4239"
+      "longitude": "-89.4239",
+      "score": 0
     }
   },
   {
@@ -2384,7 +2582,8 @@
       "state": "West Virginia",
       "closed": false,
       "latitude": "38.2968",
-      "longitude": "-81.5547"
+      "longitude": "-81.5547",
+      "score": 0
     }
   },
   {
@@ -2396,7 +2595,8 @@
       "state": "Kentucky",
       "closed": false,
       "latitude": "38.0612",
-      "longitude": "-84.4583"
+      "longitude": "-84.4583",
+      "score": 0
     }
   },
   {
@@ -2408,7 +2608,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "42.5125",
-      "longitude": "-83.0643"
+      "longitude": "-83.0643",
+      "score": 0
     }
   },
   {
@@ -2420,7 +2621,8 @@
       "state": "Georgia",
       "closed": true,
       "latitude": "31.55",
-      "longitude": "-84.0612"
+      "longitude": "-84.0612",
+      "score": 0
     }
   },
   {
@@ -2432,7 +2634,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "30.2166",
-      "longitude": "-97.8508"
+      "longitude": "-97.8508",
+      "score": 0
     }
   },
   {
@@ -2444,7 +2647,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "41.4019",
-      "longitude": "-75.6376"
+      "longitude": "-75.6376",
+      "score": 0
     }
   },
   {
@@ -2456,7 +2660,8 @@
       "state": "Iowa",
       "closed": true,
       "latitude": "41.6727",
-      "longitude": "-93.5722"
+      "longitude": "-93.5722",
+      "score": 0
     }
   },
   {
@@ -2468,7 +2673,8 @@
       "state": "Arizona",
       "closed": false,
       "latitude": "33.5082",
-      "longitude": "-112.1011"
+      "longitude": "-112.1011",
+      "score": 0
     }
   },
   {
@@ -2480,7 +2686,8 @@
       "state": "Illinois",
       "closed": false,
       "latitude": "41.9229",
-      "longitude": "-87.6483"
+      "longitude": "-87.6483",
+      "score": 0
     }
   },
   {
@@ -2492,7 +2699,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.7651",
-      "longitude": "-73.9858"
+      "longitude": "-73.9858",
+      "score": 0
     }
   },
   {
@@ -2504,7 +2712,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "29.9781",
-      "longitude": "-95.5803"
+      "longitude": "-95.5803",
+      "score": 0
     }
   },
   {
@@ -2516,7 +2725,8 @@
       "state": "Alabama",
       "closed": false,
       "latitude": "33.1617",
-      "longitude": "-87.5144"
+      "longitude": "-87.5144",
+      "score": 0
     }
   },
   {
@@ -2528,7 +2738,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "43.286",
-      "longitude": "-77.6843"
+      "longitude": "-77.6843",
+      "score": 0
     }
   },
   {
@@ -2540,7 +2751,8 @@
       "state": "Iowa",
       "closed": false,
       "latitude": "41.5444",
-      "longitude": "-93.6192"
+      "longitude": "-93.6192",
+      "score": 0
     }
   },
   {
@@ -2552,7 +2764,8 @@
       "state": "Minnesota",
       "closed": false,
       "latitude": "44.8756",
-      "longitude": "-93.2553"
+      "longitude": "-93.2553",
+      "score": 0
     }
   },
   {
@@ -2564,7 +2777,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "30.1288",
-      "longitude": "-95.4239"
+      "longitude": "-95.4239",
+      "score": 0
     }
   },
   {
@@ -2576,7 +2790,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "43.3869",
-      "longitude": "-84.0926"
+      "longitude": "-84.0926",
+      "score": 0
     }
   },
   {
@@ -2588,7 +2803,8 @@
       "state": "Colorado",
       "closed": true,
       "latitude": "39.6255",
-      "longitude": "-104.7874"
+      "longitude": "-104.7874",
+      "score": 0
     }
   },
   {
@@ -2600,7 +2816,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "33.7488",
-      "longitude": "-84.3883"
+      "longitude": "-84.3883",
+      "score": 0
     }
   },
   {
@@ -2612,7 +2829,8 @@
       "state": "Tennessee",
       "closed": true,
       "latitude": "36.1379",
-      "longitude": "-86.741"
+      "longitude": "-86.741",
+      "score": 0
     }
   },
   {
@@ -2624,7 +2842,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "33.0277",
-      "longitude": "-96.6777"
+      "longitude": "-96.6777",
+      "score": 0
     }
   },
   {
@@ -2636,7 +2855,8 @@
       "state": "Arizona",
       "closed": true,
       "latitude": "33.3887",
-      "longitude": "-111.8428"
+      "longitude": "-111.8428",
+      "score": 0
     }
   },
   {
@@ -2648,7 +2868,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "27.9654",
-      "longitude": "-82.8001"
+      "longitude": "-82.8001",
+      "score": 0
     }
   },
   {
@@ -2660,7 +2881,8 @@
       "state": "Oklahoma",
       "closed": true,
       "latitude": "35.5514",
-      "longitude": "-97.4075"
+      "longitude": "-97.4075",
+      "score": 0
     }
   },
   {
@@ -2672,7 +2894,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "30.4061",
-      "longitude": "-87.2917"
+      "longitude": "-87.2917",
+      "score": 0
     }
   },
   {
@@ -2684,7 +2907,8 @@
       "state": "Delaware",
       "closed": true,
       "latitude": "39.5645",
-      "longitude": "-75.597"
+      "longitude": "-75.597",
+      "score": 0
     }
   },
   {
@@ -2696,7 +2920,8 @@
       "state": "Connecticut",
       "closed": true,
       "latitude": "41.3657",
-      "longitude": "-72.9275"
+      "longitude": "-72.9275",
+      "score": 0
     }
   },
   {
@@ -2708,7 +2933,8 @@
       "state": "Minnesota",
       "closed": true,
       "latitude": "45.0242",
-      "longitude": "-93.302"
+      "longitude": "-93.302",
+      "score": 0
     }
   },
   {
@@ -2720,7 +2946,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "40.6913",
-      "longitude": "-73.8059"
+      "longitude": "-73.8059",
+      "score": 0
     }
   },
   {
@@ -2732,7 +2959,8 @@
       "state": "South Carolina",
       "closed": false,
       "latitude": "34.8497",
-      "longitude": "-82.4538"
+      "longitude": "-82.4538",
+      "score": 0
     }
   },
   {
@@ -2744,7 +2972,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "28.5642",
-      "longitude": "-82.4165"
+      "longitude": "-82.4165",
+      "score": 0
     }
   },
   {
@@ -2756,7 +2985,8 @@
       "state": "New York",
       "closed": false,
       "latitude": "43.286",
-      "longitude": "-77.6843"
+      "longitude": "-77.6843",
+      "score": 0
     }
   },
   {
@@ -2768,7 +2998,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "43.286",
-      "longitude": "-77.6843"
+      "longitude": "-77.6843",
+      "score": 0
     }
   },
   {
@@ -2780,7 +3011,8 @@
       "state": "Kentucky",
       "closed": true,
       "latitude": "38.2467",
-      "longitude": "-85.6853"
+      "longitude": "-85.6853",
+      "score": 0
     }
   },
   {
@@ -2792,7 +3024,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "42.1087",
-      "longitude": "-79.9535"
+      "longitude": "-79.9535",
+      "score": 0
     }
   },
   {
@@ -2804,7 +3037,8 @@
       "state": "Colorado",
       "closed": false,
       "latitude": "39.7388",
-      "longitude": "-104.4083"
+      "longitude": "-104.4083",
+      "score": 0
     }
   },
   {
@@ -2816,7 +3050,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "39.9671",
-      "longitude": "-83.0044"
+      "longitude": "-83.0044",
+      "score": 0
     }
   },
   {
@@ -2828,7 +3063,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "27.3896",
-      "longitude": "-80.2615"
+      "longitude": "-80.2615",
+      "score": 0
     }
   },
   {
@@ -2840,7 +3076,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "27.0228",
-      "longitude": "-82.1108"
+      "longitude": "-82.1108",
+      "score": 0
     }
   },
   {
@@ -2852,7 +3089,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.6451",
-      "longitude": "-73.945"
+      "longitude": "-73.945",
+      "score": 0
     }
   },
   {
@@ -2864,7 +3102,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "29.834",
-      "longitude": "-95.4342"
+      "longitude": "-95.4342",
+      "score": 0
     }
   },
   {
@@ -2876,7 +3115,8 @@
       "state": "Washington",
       "closed": true,
       "latitude": "47.1591",
-      "longitude": "-122.5485"
+      "longitude": "-122.5485",
+      "score": 0
     }
   },
   {
@@ -2888,7 +3128,8 @@
       "state": "California",
       "closed": false,
       "latitude": "38.6026",
-      "longitude": "-121.4475"
+      "longitude": "-121.4475",
+      "score": 0
     }
   },
   {
@@ -2900,7 +3141,8 @@
       "state": "Arizona",
       "closed": false,
       "latitude": "33.2765",
-      "longitude": "-112.1872"
+      "longitude": "-112.1872",
+      "score": 0
     }
   },
   {
@@ -2912,7 +3154,8 @@
       "state": "Idaho",
       "closed": true,
       "latitude": "43.5345",
-      "longitude": "-115.9711"
+      "longitude": "-115.9711",
+      "score": 0
     }
   },
   {
@@ -2924,7 +3167,8 @@
       "state": "North Carolina",
       "closed": false,
       "latitude": "36.0275",
-      "longitude": "-80.2073"
+      "longitude": "-80.2073",
+      "score": 0
     }
   },
   {
@@ -2936,7 +3180,8 @@
       "state": "Colorado",
       "closed": true,
       "latitude": "38.8152",
-      "longitude": "-104.7703"
+      "longitude": "-104.7703",
+      "score": 0
     }
   },
   {
@@ -2948,7 +3193,8 @@
       "state": "Arizona",
       "closed": false,
       "latitude": "33.2765",
-      "longitude": "-112.1872"
+      "longitude": "-112.1872",
+      "score": 0
     }
   },
   {
@@ -2960,7 +3206,8 @@
       "state": "Kansas",
       "closed": true,
       "latitude": "37.6379",
-      "longitude": "-97.2613"
+      "longitude": "-97.2613",
+      "score": 0
     }
   },
   {
@@ -2972,7 +3219,8 @@
       "state": "New Jersey",
       "closed": false,
       "latitude": "40.7918",
-      "longitude": "-74.2452"
+      "longitude": "-74.2452",
+      "score": 0
     }
   },
   {
@@ -2984,7 +3232,8 @@
       "state": "Nebraska",
       "closed": false,
       "latitude": "41.2933",
-      "longitude": "-95.9361"
+      "longitude": "-95.9361",
+      "score": 0
     }
   },
   {
@@ -2996,7 +3245,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "27.8918",
-      "longitude": "-82.7248"
+      "longitude": "-82.7248",
+      "score": 0
     }
   },
   {
@@ -3008,7 +3258,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "29.3977",
-      "longitude": "-98.4658"
+      "longitude": "-98.4658",
+      "score": 0
     }
   },
   {
@@ -3020,7 +3271,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "35.0763",
-      "longitude": "-101.8349"
+      "longitude": "-101.8349",
+      "score": 0
     }
   },
   {
@@ -3032,7 +3284,8 @@
       "state": "Pennsylvania",
       "closed": true,
       "latitude": "40.5051",
-      "longitude": "-80.1155"
+      "longitude": "-80.1155",
+      "score": 0
     }
   },
   {
@@ -3044,7 +3297,8 @@
       "state": "Kentucky",
       "closed": true,
       "latitude": "38.0283",
-      "longitude": "-84.4715"
+      "longitude": "-84.4715",
+      "score": 0
     }
   },
   {
@@ -3056,7 +3310,8 @@
       "state": "Massachusetts",
       "closed": true,
       "latitude": "42.0999",
-      "longitude": "-72.5783"
+      "longitude": "-72.5783",
+      "score": 0
     }
   },
   {
@@ -3068,7 +3323,8 @@
       "state": "Minnesota",
       "closed": true,
       "latitude": "45.0159",
-      "longitude": "-93.4719"
+      "longitude": "-93.4719",
+      "score": 0
     }
   },
   {
@@ -3080,7 +3336,8 @@
       "state": "Michigan",
       "closed": false,
       "latitude": "43.1791",
-      "longitude": "-86.1989"
+      "longitude": "-86.1989",
+      "score": 0
     }
   },
   {
@@ -3092,7 +3349,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.7808",
-      "longitude": "-73.9772"
+      "longitude": "-73.9772",
+      "score": 0
     }
   },
   {
@@ -3104,7 +3362,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.9067",
-      "longitude": "-77.0312"
+      "longitude": "-77.0312",
+      "score": 0
     }
   },
   {
@@ -3116,7 +3375,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "40.0422",
-      "longitude": "-75.0244"
+      "longitude": "-75.0244",
+      "score": 0
     }
   },
   {
@@ -3128,7 +3388,8 @@
       "state": "Louisiana",
       "closed": true,
       "latitude": "30.033",
-      "longitude": "-89.8826"
+      "longitude": "-89.8826",
+      "score": 0
     }
   },
   {
@@ -3140,7 +3401,8 @@
       "state": "California",
       "closed": false,
       "latitude": "33.8356",
-      "longitude": "-117.9132"
+      "longitude": "-117.9132",
+      "score": 0
     }
   },
   {
@@ -3152,7 +3414,8 @@
       "state": "Virginia",
       "closed": true,
       "latitude": "37.5313",
-      "longitude": "-77.4161"
+      "longitude": "-77.4161",
+      "score": 0
     }
   },
   {
@@ -3164,7 +3427,8 @@
       "state": "Alabama",
       "closed": false,
       "latitude": "33.5446",
-      "longitude": "-86.9292"
+      "longitude": "-86.9292",
+      "score": 0
     }
   },
   {
@@ -3176,7 +3440,8 @@
       "state": "Pennsylvania",
       "closed": true,
       "latitude": "40.0185",
-      "longitude": "-76.2976"
+      "longitude": "-76.2976",
+      "score": 0
     }
   },
   {
@@ -3188,7 +3453,8 @@
       "state": "Ohio",
       "closed": false,
       "latitude": "41.0704",
-      "longitude": "-80.6931"
+      "longitude": "-80.6931",
+      "score": 0
     }
   },
   {
@@ -3200,7 +3466,8 @@
       "state": "Iowa",
       "closed": false,
       "latitude": "41.6727",
-      "longitude": "-93.5722"
+      "longitude": "-93.5722",
+      "score": 0
     }
   },
   {
@@ -3212,7 +3479,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "29.8159",
-      "longitude": "-95.523"
+      "longitude": "-95.523",
+      "score": 0
     }
   },
   {
@@ -3224,7 +3492,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "40.081",
-      "longitude": "-82.9383"
+      "longitude": "-82.9383",
+      "score": 0
     }
   },
   {
@@ -3236,7 +3505,8 @@
       "state": "Indiana",
       "closed": true,
       "latitude": "41.5968",
-      "longitude": "-86.293"
+      "longitude": "-86.293",
+      "score": 0
     }
   },
   {
@@ -3248,7 +3518,8 @@
       "state": "Indiana",
       "closed": false,
       "latitude": "38.2868",
-      "longitude": "-85.7321"
+      "longitude": "-85.7321",
+      "score": 0
     }
   },
   {
@@ -3260,7 +3531,8 @@
       "state": "Oregon",
       "closed": true,
       "latitude": "45.5806",
-      "longitude": "-122.3748"
+      "longitude": "-122.3748",
+      "score": 0
     }
   },
   {
@@ -3272,7 +3544,8 @@
       "state": "Virginia",
       "closed": true,
       "latitude": "38.3365",
-      "longitude": "-77.4366"
+      "longitude": "-77.4366",
+      "score": 0
     }
   },
   {
@@ -3284,7 +3557,8 @@
       "state": "Oklahoma",
       "closed": true,
       "latitude": "35.599",
-      "longitude": "-97.6251"
+      "longitude": "-97.6251",
+      "score": 0
     }
   },
   {
@@ -3296,7 +3570,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.7848",
-      "longitude": "-122.7278"
+      "longitude": "-122.7278",
+      "score": 0
     }
   },
   {
@@ -3308,7 +3583,8 @@
       "state": "North Carolina",
       "closed": false,
       "latitude": "35.22",
-      "longitude": "-80.7881"
+      "longitude": "-80.7881",
+      "score": 0
     }
   },
   {
@@ -3320,7 +3596,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "32.7714",
-      "longitude": "-97.2915"
+      "longitude": "-97.2915",
+      "score": 0
     }
   },
   {
@@ -3332,7 +3609,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.8933",
-      "longitude": "-77.0146"
+      "longitude": "-77.0146",
+      "score": 0
     }
   },
   {
@@ -3344,7 +3622,8 @@
       "state": "Virginia",
       "closed": false,
       "latitude": "37.4376",
-      "longitude": "-79.205"
+      "longitude": "-79.205",
+      "score": 0
     }
   },
   {
@@ -3356,7 +3635,8 @@
       "state": "New Mexico",
       "closed": true,
       "latitude": "35.0443",
-      "longitude": "-106.6729"
+      "longitude": "-106.6729",
+      "score": 0
     }
   },
   {
@@ -3368,7 +3648,8 @@
       "state": "South Carolina",
       "closed": false,
       "latitude": "32.8715",
-      "longitude": "-79.9947"
+      "longitude": "-79.9947",
+      "score": 0
     }
   },
   {
@@ -3380,7 +3661,8 @@
       "state": "Indiana",
       "closed": true,
       "latitude": "41.5968",
-      "longitude": "-86.293"
+      "longitude": "-86.293",
+      "score": 0
     }
   },
   {
@@ -3392,7 +3674,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.9381",
-      "longitude": "-77.086"
+      "longitude": "-77.086",
+      "score": 0
     }
   },
   {
@@ -3404,7 +3687,8 @@
       "state": "Ohio",
       "closed": false,
       "latitude": "39.7505",
-      "longitude": "-84.2686"
+      "longitude": "-84.2686",
+      "score": 0
     }
   },
   {
@@ -3416,7 +3700,8 @@
       "state": "Utah",
       "closed": true,
       "latitude": "40.6681",
-      "longitude": "-111.9083"
+      "longitude": "-111.9083",
+      "score": 0
     }
   },
   {
@@ -3428,7 +3713,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "31.8767",
-      "longitude": "-102.4375"
+      "longitude": "-102.4375",
+      "score": 0
     }
   },
   {
@@ -3440,7 +3726,8 @@
       "state": "Colorado",
       "closed": true,
       "latitude": "38.1286",
-      "longitude": "-104.5523"
+      "longitude": "-104.5523",
+      "score": 0
     }
   },
   {
@@ -3452,7 +3739,8 @@
       "state": "Illinois",
       "closed": false,
       "latitude": "42.0144",
-      "longitude": "-88.0935"
+      "longitude": "-88.0935",
+      "score": 0
     }
   },
   {
@@ -3464,7 +3752,8 @@
       "state": "Missouri",
       "closed": true,
       "latitude": "39.035",
-      "longitude": "-94.3567"
+      "longitude": "-94.3567",
+      "score": 0
     }
   },
   {
@@ -3476,7 +3765,8 @@
       "state": "Louisiana",
       "closed": true,
       "latitude": "30.2081",
-      "longitude": "-92.0951"
+      "longitude": "-92.0951",
+      "score": 0
     }
   },
   {
@@ -3488,7 +3778,8 @@
       "state": "Connecticut",
       "closed": false,
       "latitude": "41.0957",
-      "longitude": "-73.4285"
+      "longitude": "-73.4285",
+      "score": 0
     }
   },
   {
@@ -3500,7 +3791,8 @@
       "state": "North Carolina",
       "closed": false,
       "latitude": "36.0807",
-      "longitude": "-80.0244"
+      "longitude": "-80.0244",
+      "score": 0
     }
   },
   {
@@ -3512,7 +3804,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "27.9951",
-      "longitude": "-82.4046"
+      "longitude": "-82.4046",
+      "score": 0
     }
   },
   {
@@ -3524,7 +3817,8 @@
       "state": "California",
       "closed": true,
       "latitude": "32.7607",
-      "longitude": "-117.0721"
+      "longitude": "-117.0721",
+      "score": 0
     }
   },
   {
@@ -3536,7 +3830,8 @@
       "state": "Virginia",
       "closed": true,
       "latitude": "38.8808",
-      "longitude": "-77.113"
+      "longitude": "-77.113",
+      "score": 0
     }
   },
   {
@@ -3548,7 +3843,8 @@
       "state": "Utah",
       "closed": true,
       "latitude": "40.6681",
-      "longitude": "-111.9083"
+      "longitude": "-111.9083",
+      "score": 0
     }
   },
   {
@@ -3560,7 +3856,8 @@
       "state": "Illinois",
       "closed": true,
       "latitude": "41.9166",
-      "longitude": "-88.1208"
+      "longitude": "-88.1208",
+      "score": 0
     }
   },
   {
@@ -3572,7 +3869,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "39.111",
-      "longitude": "-84.6594"
+      "longitude": "-84.6594",
+      "score": 0
     }
   },
   {
@@ -3584,7 +3882,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "27.3822",
-      "longitude": "-80.409"
+      "longitude": "-80.409",
+      "score": 0
     }
   },
   {
@@ -3596,7 +3895,8 @@
       "state": "Washington",
       "closed": false,
       "latitude": "47.6536",
-      "longitude": "-117.4317"
+      "longitude": "-117.4317",
+      "score": 0
     }
   },
   {
@@ -3608,7 +3908,8 @@
       "state": "South Carolina",
       "closed": true,
       "latitude": "34.8882",
-      "longitude": "-81.969"
+      "longitude": "-81.969",
+      "score": 0
     }
   },
   {
@@ -3620,7 +3921,8 @@
       "state": "New Jersey",
       "closed": true,
       "latitude": "40.2805",
-      "longitude": "-74.712"
+      "longitude": "-74.712",
+      "score": 0
     }
   },
   {
@@ -3632,7 +3934,8 @@
       "state": "Oregon",
       "closed": true,
       "latitude": "44.8685",
-      "longitude": "-123.0438"
+      "longitude": "-123.0438",
+      "score": 0
     }
   },
   {
@@ -3644,7 +3947,8 @@
       "state": "Oklahoma",
       "closed": true,
       "latitude": "35.421",
-      "longitude": "-97.5616"
+      "longitude": "-97.5616",
+      "score": 0
     }
   },
   {
@@ -3656,7 +3960,8 @@
       "state": "New Jersey",
       "closed": true,
       "latitude": "41.0114",
-      "longitude": "-74.3048"
+      "longitude": "-74.3048",
+      "score": 0
     }
   },
   {
@@ -3668,7 +3973,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "43.3869",
-      "longitude": "-84.0926"
+      "longitude": "-84.0926",
+      "score": 0
     }
   },
   {
@@ -3680,7 +3986,8 @@
       "state": "Delaware",
       "closed": true,
       "latitude": "39.5645",
-      "longitude": "-75.597"
+      "longitude": "-75.597",
+      "score": 0
     }
   },
   {
@@ -3692,7 +3999,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "40.2944",
-      "longitude": "-76.8938"
+      "longitude": "-76.8938",
+      "score": 0
     }
   },
   {
@@ -3704,7 +4012,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "42.3809",
-      "longitude": "-83.0409"
+      "longitude": "-83.0409",
+      "score": 0
     }
   },
   {
@@ -3716,7 +4025,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "42.2535",
-      "longitude": "-83.8366"
+      "longitude": "-83.8366",
+      "score": 0
     }
   },
   {
@@ -3728,7 +4038,8 @@
       "state": "South Carolina",
       "closed": true,
       "latitude": "34.8001",
-      "longitude": "-82.3932"
+      "longitude": "-82.3932",
+      "score": 0
     }
   },
   {
@@ -3740,7 +4051,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "26.6104",
-      "longitude": "-80.1683"
+      "longitude": "-80.1683",
+      "score": 0
     }
   },
   {
@@ -3752,7 +4064,8 @@
       "state": "Louisiana",
       "closed": false,
       "latitude": "30.486",
-      "longitude": "-91.1481"
+      "longitude": "-91.1481",
+      "score": 0
     }
   },
   {
@@ -3764,7 +4077,8 @@
       "state": "California",
       "closed": true,
       "latitude": "36.7464",
-      "longitude": "-119.6397"
+      "longitude": "-119.6397",
+      "score": 0
     }
   },
   {
@@ -3776,7 +4090,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "27.1675",
-      "longitude": "-82.381"
+      "longitude": "-82.381",
+      "score": 0
     }
   },
   {
@@ -3788,7 +4103,8 @@
       "state": "North Carolina",
       "closed": false,
       "latitude": "35.7977",
-      "longitude": "-78.6253"
+      "longitude": "-78.6253",
+      "score": 0
     }
   },
   {
@@ -3800,7 +4116,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "27.872",
-      "longitude": "-82.4388"
+      "longitude": "-82.4388",
+      "score": 0
     }
   },
   {
@@ -3812,7 +4129,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "30.2907",
-      "longitude": "-97.7648"
+      "longitude": "-97.7648",
+      "score": 0
     }
   },
   {
@@ -3824,7 +4142,8 @@
       "state": "Indiana",
       "closed": true,
       "latitude": "39.1682",
-      "longitude": "-86.5186"
+      "longitude": "-86.5186",
+      "score": 0
     }
   },
   {
@@ -3836,7 +4155,8 @@
       "state": "Mississippi",
       "closed": false,
       "latitude": "30.4158",
-      "longitude": "-89.0684"
+      "longitude": "-89.0684",
+      "score": 0
     }
   },
   {
@@ -3848,7 +4168,8 @@
       "state": "California",
       "closed": false,
       "latitude": "33.8106",
-      "longitude": "-118.3507"
+      "longitude": "-118.3507",
+      "score": 0
     }
   },
   {
@@ -3860,7 +4181,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.8933",
-      "longitude": "-77.0146"
+      "longitude": "-77.0146",
+      "score": 0
     }
   },
   {
@@ -3872,7 +4194,8 @@
       "state": "California",
       "closed": true,
       "latitude": "33.7661",
-      "longitude": "-117.9738"
+      "longitude": "-117.9738",
+      "score": 0
     }
   },
   {
@@ -3884,7 +4207,8 @@
       "state": "Massachusetts",
       "closed": false,
       "latitude": "42.36",
-      "longitude": "-71.0545"
+      "longitude": "-71.0545",
+      "score": 0
     }
   },
   {
@@ -3896,7 +4220,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "31.7705",
-      "longitude": "-106.5048"
+      "longitude": "-106.5048",
+      "score": 0
     }
   },
   {
@@ -3908,7 +4233,8 @@
       "state": "North Carolina",
       "closed": true,
       "latitude": "35.26",
-      "longitude": "-80.8042"
+      "longitude": "-80.8042",
+      "score": 0
     }
   },
   {
@@ -3920,7 +4246,8 @@
       "state": "Maryland",
       "closed": false,
       "latitude": "38.9982",
-      "longitude": "-77.0338"
+      "longitude": "-77.0338",
+      "score": 0
     }
   },
   {
@@ -3932,7 +4259,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "40.8259",
-      "longitude": "-81.3399"
+      "longitude": "-81.3399",
+      "score": 0
     }
   },
   {
@@ -3944,7 +4272,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "31.0363",
-      "longitude": "-97.492"
+      "longitude": "-97.492",
+      "score": 0
     }
   },
   {
@@ -3956,7 +4285,8 @@
       "state": "Delaware",
       "closed": true,
       "latitude": "39.7434",
-      "longitude": "-75.5827"
+      "longitude": "-75.5827",
+      "score": 0
     }
   },
   {
@@ -3968,7 +4298,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "30.0042",
-      "longitude": "-95.1728"
+      "longitude": "-95.1728",
+      "score": 0
     }
   },
   {
@@ -3980,7 +4311,8 @@
       "state": "Colorado",
       "closed": true,
       "latitude": "38.1286",
-      "longitude": "-104.5523"
+      "longitude": "-104.5523",
+      "score": 0
     }
   },
   {
@@ -3992,7 +4324,8 @@
       "state": "Arizona",
       "closed": false,
       "latitude": "33.2765",
-      "longitude": "-112.1872"
+      "longitude": "-112.1872",
+      "score": 0
     }
   },
   {
@@ -4004,7 +4337,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "33.7629",
-      "longitude": "-84.4226"
+      "longitude": "-84.4226",
+      "score": 0
     }
   },
   {
@@ -4016,7 +4350,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "32.7714",
-      "longitude": "-97.2915"
+      "longitude": "-97.2915",
+      "score": 0
     }
   },
   {
@@ -4028,7 +4363,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "30.3584",
-      "longitude": "-81.692"
+      "longitude": "-81.692",
+      "score": 0
     }
   },
   {
@@ -4040,7 +4376,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "27.881",
-      "longitude": "-82.7619"
+      "longitude": "-82.7619",
+      "score": 0
     }
   },
   {
@@ -4052,7 +4389,8 @@
       "state": "Missouri",
       "closed": false,
       "latitude": "38.5309",
-      "longitude": "-92.2493"
+      "longitude": "-92.2493",
+      "score": 0
     }
   },
   {
@@ -4064,7 +4402,8 @@
       "state": "Pennsylvania",
       "closed": true,
       "latitude": "40.4344",
-      "longitude": "-80.0248"
+      "longitude": "-80.0248",
+      "score": 0
     }
   },
   {
@@ -4076,7 +4415,8 @@
       "state": "Illinois",
       "closed": false,
       "latitude": "41.7458",
-      "longitude": "-87.6054"
+      "longitude": "-87.6054",
+      "score": 0
     }
   },
   {
@@ -4088,7 +4428,8 @@
       "state": "Pennsylvania",
       "closed": true,
       "latitude": "40.4344",
-      "longitude": "-80.0248"
+      "longitude": "-80.0248",
+      "score": 0
     }
   },
   {
@@ -4100,7 +4441,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "39.9473",
-      "longitude": "-75.15"
+      "longitude": "-75.15",
+      "score": 0
     }
   },
   {
@@ -4112,7 +4454,8 @@
       "state": "California",
       "closed": false,
       "latitude": "33.7465",
-      "longitude": "-117.8662"
+      "longitude": "-117.8662",
+      "score": 0
     }
   },
   {
@@ -4124,7 +4467,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "27.9654",
-      "longitude": "-82.8001"
+      "longitude": "-82.8001",
+      "score": 0
     }
   },
   {
@@ -4136,7 +4480,8 @@
       "state": "Ohio",
       "closed": false,
       "latitude": "39.111",
-      "longitude": "-84.6594"
+      "longitude": "-84.6594",
+      "score": 0
     }
   },
   {
@@ -4148,7 +4493,8 @@
       "state": "Wisconsin",
       "closed": false,
       "latitude": "43.006",
-      "longitude": "-87.9429"
+      "longitude": "-87.9429",
+      "score": 0
     }
   },
   {
@@ -4160,7 +4506,8 @@
       "state": "Maryland",
       "closed": false,
       "latitude": "39.2933",
-      "longitude": "-76.6238"
+      "longitude": "-76.6238",
+      "score": 0
     }
   },
   {
@@ -4172,7 +4519,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.8981",
-      "longitude": "-77.0401"
+      "longitude": "-77.0401",
+      "score": 0
     }
   },
   {
@@ -4184,7 +4532,8 @@
       "state": "California",
       "closed": true,
       "latitude": "33.7866",
-      "longitude": "-118.2987"
+      "longitude": "-118.2987",
+      "score": 0
     }
   },
   {
@@ -4196,7 +4545,8 @@
       "state": "Nevada",
       "closed": false,
       "latitude": "36.1693",
-      "longitude": "-115.2828"
+      "longitude": "-115.2828",
+      "score": 0
     }
   },
   {
@@ -4208,7 +4558,8 @@
       "state": "Pennsylvania",
       "closed": true,
       "latitude": "40.338",
-      "longitude": "-75.978"
+      "longitude": "-75.978",
+      "score": 0
     }
   },
   {
@@ -4220,7 +4571,8 @@
       "state": "Alabama",
       "closed": true,
       "latitude": "33.4951",
-      "longitude": "-86.8059"
+      "longitude": "-86.8059",
+      "score": 0
     }
   },
   {
@@ -4232,7 +4584,8 @@
       "state": "Louisiana",
       "closed": false,
       "latitude": "30.033",
-      "longitude": "-89.8826"
+      "longitude": "-89.8826",
+      "score": 0
     }
   },
   {
@@ -4244,7 +4597,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "33.8444",
-      "longitude": "-84.474"
+      "longitude": "-84.474",
+      "score": 0
     }
   },
   {
@@ -4256,7 +4610,8 @@
       "state": "Alabama",
       "closed": true,
       "latitude": "32.404",
-      "longitude": "-86.2539"
+      "longitude": "-86.2539",
+      "score": 0
     }
   },
   {
@@ -4268,7 +4623,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "41.6857",
-      "longitude": "-81.6728"
+      "longitude": "-81.6728",
+      "score": 0
     }
   },
   {
@@ -4280,7 +4636,8 @@
       "state": "Colorado",
       "closed": true,
       "latitude": "39.7388",
-      "longitude": "-104.4083"
+      "longitude": "-104.4083",
+      "score": 0
     }
   },
   {
@@ -4292,7 +4649,8 @@
       "state": "Illinois",
       "closed": true,
       "latitude": "41.8119",
-      "longitude": "-87.6873"
+      "longitude": "-87.6873",
+      "score": 0
     }
   },
   {
@@ -4304,7 +4662,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.945",
-      "longitude": "-77.0364"
+      "longitude": "-77.0364",
+      "score": 0
     }
   },
   {
@@ -4316,7 +4675,8 @@
       "state": "California",
       "closed": true,
       "latitude": "38.3774",
-      "longitude": "-121.4444"
+      "longitude": "-121.4444",
+      "score": 0
     }
   },
   {
@@ -4328,7 +4688,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.6913",
-      "longitude": "-73.8059"
+      "longitude": "-73.8059",
+      "score": 0
     }
   },
   {
@@ -4340,7 +4701,8 @@
       "state": "Washington",
       "closed": false,
       "latitude": "47.6536",
-      "longitude": "-117.4317"
+      "longitude": "-117.4317",
+      "score": 0
     }
   },
   {
@@ -4352,7 +4714,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "26.2626",
-      "longitude": "-81.8071"
+      "longitude": "-81.8071",
+      "score": 0
     }
   },
   {
@@ -4364,7 +4727,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "42.5992",
-      "longitude": "-84.372"
+      "longitude": "-84.372",
+      "score": 0
     }
   },
   {
@@ -4376,7 +4740,8 @@
       "state": "Washington",
       "closed": true,
       "latitude": "47.6964",
-      "longitude": "-117.4399"
+      "longitude": "-117.4399",
+      "score": 0
     }
   },
   {
@@ -4388,7 +4753,8 @@
       "state": "Arizona",
       "closed": true,
       "latitude": "33.2765",
-      "longitude": "-112.1872"
+      "longitude": "-112.1872",
+      "score": 0
     }
   },
   {
@@ -4400,7 +4766,8 @@
       "state": "New Mexico",
       "closed": true,
       "latitude": "35.6219",
-      "longitude": "-105.8688"
+      "longitude": "-105.8688",
+      "score": 0
     }
   },
   {
@@ -4412,7 +4779,8 @@
       "state": "Washington",
       "closed": false,
       "latitude": "47.4323",
-      "longitude": "-121.8034"
+      "longitude": "-121.8034",
+      "score": 0
     }
   },
   {
@@ -4424,7 +4792,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "32.8479",
-      "longitude": "-96.974"
+      "longitude": "-96.974",
+      "score": 0
     }
   },
   {
@@ -4436,7 +4805,8 @@
       "state": "Oregon",
       "closed": false,
       "latitude": "45.5806",
-      "longitude": "-122.3748"
+      "longitude": "-122.3748",
+      "score": 0
     }
   },
   {
@@ -4448,7 +4818,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "30.085",
-      "longitude": "-94.2607"
+      "longitude": "-94.2607",
+      "score": 0
     }
   },
   {
@@ -4460,7 +4831,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "32.7714",
-      "longitude": "-97.2915"
+      "longitude": "-97.2915",
+      "score": 0
     }
   },
   {
@@ -4472,7 +4844,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "39.9496",
-      "longitude": "-75.1637"
+      "longitude": "-75.1637",
+      "score": 0
     }
   },
   {
@@ -4484,7 +4857,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "30.3189",
-      "longitude": "-81.6854"
+      "longitude": "-81.6854",
+      "score": 0
     }
   },
   {
@@ -4496,7 +4870,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.7848",
-      "longitude": "-122.7278"
+      "longitude": "-122.7278",
+      "score": 0
     }
   },
   {
@@ -4508,7 +4883,8 @@
       "state": "Hawaii",
       "closed": true,
       "latitude": "21.3095",
-      "longitude": "-157.863"
+      "longitude": "-157.863",
+      "score": 0
     }
   },
   {
@@ -4520,7 +4896,8 @@
       "state": "Colorado",
       "closed": true,
       "latitude": "39.7002",
-      "longitude": "-105.0028"
+      "longitude": "-105.0028",
+      "score": 0
     }
   },
   {
@@ -4532,7 +4909,8 @@
       "state": "Indiana",
       "closed": true,
       "latitude": "39.7795",
-      "longitude": "-86.1328"
+      "longitude": "-86.1328",
+      "score": 0
     }
   },
   {
@@ -4544,7 +4922,8 @@
       "state": "Virginia",
       "closed": true,
       "latitude": "38.8318",
-      "longitude": "-77.2888"
+      "longitude": "-77.2888",
+      "score": 0
     }
   },
   {
@@ -4556,7 +4935,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "31.0363",
-      "longitude": "-97.492"
+      "longitude": "-97.492",
+      "score": 0
     }
   },
   {
@@ -4568,7 +4948,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.9087",
-      "longitude": "-77.0414"
+      "longitude": "-77.0414",
+      "score": 0
     }
   },
   {
@@ -4580,7 +4961,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.8662",
-      "longitude": "-73.9221"
+      "longitude": "-73.9221",
+      "score": 0
     }
   },
   {
@@ -4592,7 +4974,8 @@
       "state": "Illinois",
       "closed": true,
       "latitude": "41.7454",
-      "longitude": "-87.7135"
+      "longitude": "-87.7135",
+      "score": 0
     }
   },
   {
@@ -4604,7 +4987,8 @@
       "state": "Virginia",
       "closed": false,
       "latitude": "37.3589",
-      "longitude": "-79.9448"
+      "longitude": "-79.9448",
+      "score": 0
     }
   },
   {
@@ -4616,7 +5000,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "41.6868",
-      "longitude": "-83.4394"
+      "longitude": "-83.4394",
+      "score": 0
     }
   },
   {
@@ -4628,7 +5013,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "33.6021",
-      "longitude": "-101.876"
+      "longitude": "-101.876",
+      "score": 0
     }
   },
   {
@@ -4640,7 +5026,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "42.6149",
-      "longitude": "-73.9708"
+      "longitude": "-73.9708",
+      "score": 0
     }
   },
   {
@@ -4652,7 +5039,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "33.0005",
-      "longitude": "-96.8314"
+      "longitude": "-96.8314",
+      "score": 0
     }
   },
   {
@@ -4664,7 +5052,8 @@
       "state": "Indiana",
       "closed": false,
       "latitude": "39.849",
-      "longitude": "-86.272"
+      "longitude": "-86.272",
+      "score": 0
     }
   },
   {
@@ -4676,7 +5065,8 @@
       "state": "Kansas",
       "closed": true,
       "latitude": "38.9613",
-      "longitude": "-94.8222"
+      "longitude": "-94.8222",
+      "score": 0
     }
   },
   {
@@ -4688,7 +5078,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "31.6948",
-      "longitude": "-106.3"
+      "longitude": "-106.3",
+      "score": 0
     }
   },
   {
@@ -4700,7 +5091,8 @@
       "state": "Ohio",
       "closed": false,
       "latitude": "41.5008",
-      "longitude": "-81.5516"
+      "longitude": "-81.5516",
+      "score": 0
     }
   },
   {
@@ -4712,7 +5104,8 @@
       "state": "Maryland",
       "closed": false,
       "latitude": "38.8336",
-      "longitude": "-76.8777"
+      "longitude": "-76.8777",
+      "score": 0
     }
   },
   {
@@ -4724,7 +5117,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.7808",
-      "longitude": "-73.9772"
+      "longitude": "-73.9772",
+      "score": 0
     }
   },
   {
@@ -4736,7 +5130,8 @@
       "state": "South Carolina",
       "closed": false,
       "latitude": "33.9937",
-      "longitude": "-81.0199"
+      "longitude": "-81.0199",
+      "score": 0
     }
   },
   {
@@ -4748,7 +5143,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.8933",
-      "longitude": "-77.0146"
+      "longitude": "-77.0146",
+      "score": 0
     }
   },
   {
@@ -4760,7 +5156,8 @@
       "state": "Washington",
       "closed": false,
       "latitude": "47.7377",
-      "longitude": "-122.3431"
+      "longitude": "-122.3431",
+      "score": 0
     }
   },
   {
@@ -4772,7 +5169,8 @@
       "state": "West Virginia",
       "closed": false,
       "latitude": "38.3358",
-      "longitude": "-81.6123"
+      "longitude": "-81.6123",
+      "score": 0
     }
   },
   {
@@ -4784,7 +5182,8 @@
       "state": "California",
       "closed": false,
       "latitude": "34.6019",
-      "longitude": "-117.8123"
+      "longitude": "-117.8123",
+      "score": 0
     }
   },
   {
@@ -4796,7 +5195,8 @@
       "state": "Georgia",
       "closed": true,
       "latitude": "33.8444",
-      "longitude": "-84.474"
+      "longitude": "-84.474",
+      "score": 0
     }
   },
   {
@@ -4808,7 +5208,8 @@
       "state": "Connecticut",
       "closed": false,
       "latitude": "41.5503",
-      "longitude": "-72.9963"
+      "longitude": "-72.9963",
+      "score": 0
     }
   },
   {
@@ -4820,7 +5221,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "33.8444",
-      "longitude": "-84.474"
+      "longitude": "-84.474",
+      "score": 0
     }
   },
   {
@@ -4832,7 +5234,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "43.3869",
-      "longitude": "-84.0926"
+      "longitude": "-84.0926",
+      "score": 0
     }
   },
   {
@@ -4844,7 +5247,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.7628",
-      "longitude": "-73.9785"
+      "longitude": "-73.9785",
+      "score": 0
     }
   },
   {
@@ -4856,7 +5260,8 @@
       "state": "Iowa",
       "closed": true,
       "latitude": "41.613",
-      "longitude": "-90.6063"
+      "longitude": "-90.6063",
+      "score": 0
     }
   },
   {
@@ -4868,7 +5273,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.3329",
-      "longitude": "-121.8916"
+      "longitude": "-121.8916",
+      "score": 0
     }
   },
   {
@@ -4880,7 +5286,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "33.7406",
-      "longitude": "-84.5545"
+      "longitude": "-84.5545",
+      "score": 0
     }
   },
   {
@@ -4892,7 +5299,8 @@
       "state": "California",
       "closed": true,
       "latitude": "34.1073",
-      "longitude": "-118.2266"
+      "longitude": "-118.2266",
+      "score": 0
     }
   },
   {
@@ -4904,7 +5312,8 @@
       "state": "North Dakota",
       "closed": true,
       "latitude": "46.9346",
-      "longitude": "-97.2297"
+      "longitude": "-97.2297",
+      "score": 0
     }
   },
   {
@@ -4916,7 +5325,8 @@
       "state": "Arizona",
       "closed": true,
       "latitude": "33.3022",
-      "longitude": "-112.1226"
+      "longitude": "-112.1226",
+      "score": 0
     }
   },
   {
@@ -4928,7 +5338,8 @@
       "state": "Oklahoma",
       "closed": false,
       "latitude": "35.5514",
-      "longitude": "-97.4075"
+      "longitude": "-97.4075",
+      "score": 0
     }
   },
   {
@@ -4940,7 +5351,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "32.3766",
-      "longitude": "-95.1252"
+      "longitude": "-95.1252",
+      "score": 0
     }
   },
   {
@@ -4952,7 +5364,8 @@
       "state": "Kansas",
       "closed": false,
       "latitude": "39.116",
-      "longitude": "-94.764"
+      "longitude": "-94.764",
+      "score": 0
     }
   },
   {
@@ -4964,7 +5377,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "32.0053",
-      "longitude": "-81.0477"
+      "longitude": "-81.0477",
+      "score": 0
     }
   },
   {
@@ -4976,7 +5390,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "32.7714",
-      "longitude": "-97.2915"
+      "longitude": "-97.2915",
+      "score": 0
     }
   },
   {
@@ -4988,7 +5403,8 @@
       "state": "Virginia",
       "closed": true,
       "latitude": "38.7192",
-      "longitude": "-77.1073"
+      "longitude": "-77.1073",
+      "score": 0
     }
   },
   {
@@ -5000,7 +5416,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.6802",
-      "longitude": "-121.9215"
+      "longitude": "-121.9215",
+      "score": 0
     }
   },
   {
@@ -5012,7 +5429,8 @@
       "state": "Louisiana",
       "closed": false,
       "latitude": "32.6076",
-      "longitude": "-93.7526"
+      "longitude": "-93.7526",
+      "score": 0
     }
   },
   {
@@ -5024,7 +5442,8 @@
       "state": "North Carolina",
       "closed": true,
       "latitude": "34.2651",
-      "longitude": "-77.867"
+      "longitude": "-77.867",
+      "score": 0
     }
   },
   {
@@ -5036,7 +5455,8 @@
       "state": "Ohio",
       "closed": false,
       "latitude": "39.9106",
-      "longitude": "-83.7856"
+      "longitude": "-83.7856",
+      "score": 0
     }
   },
   {
@@ -5048,7 +5468,8 @@
       "state": "Oklahoma",
       "closed": false,
       "latitude": "35.4312",
-      "longitude": "-97.4913"
+      "longitude": "-97.4913",
+      "score": 0
     }
   },
   {
@@ -5060,7 +5481,8 @@
       "state": "Arizona",
       "closed": true,
       "latitude": "33.4226",
-      "longitude": "-111.7236"
+      "longitude": "-111.7236",
+      "score": 0
     }
   },
   {
@@ -5072,7 +5494,8 @@
       "state": "California",
       "closed": true,
       "latitude": "33.7866",
-      "longitude": "-118.2987"
+      "longitude": "-118.2987",
+      "score": 0
     }
   },
   {
@@ -5084,7 +5507,8 @@
       "state": "Colorado",
       "closed": true,
       "latitude": "38.1286",
-      "longitude": "-104.5523"
+      "longitude": "-104.5523",
+      "score": 0
     }
   },
   {
@@ -5096,7 +5520,8 @@
       "state": "Missouri",
       "closed": false,
       "latitude": "39.035",
-      "longitude": "-94.3567"
+      "longitude": "-94.3567",
+      "score": 0
     }
   },
   {
@@ -5108,7 +5533,8 @@
       "state": "Iowa",
       "closed": false,
       "latitude": "41.6727",
-      "longitude": "-93.5722"
+      "longitude": "-93.5722",
+      "score": 0
     }
   },
   {
@@ -5120,7 +5546,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "40.4344",
-      "longitude": "-80.0248"
+      "longitude": "-80.0248",
+      "score": 0
     }
   },
   {
@@ -5132,7 +5559,8 @@
       "state": "Maryland",
       "closed": false,
       "latitude": "39.0305",
-      "longitude": "-76.5515"
+      "longitude": "-76.5515",
+      "score": 0
     }
   },
   {
@@ -5144,7 +5572,8 @@
       "state": "Connecticut",
       "closed": true,
       "latitude": "41.3087",
-      "longitude": "-72.9271"
+      "longitude": "-72.9271",
+      "score": 0
     }
   },
   {
@@ -5156,7 +5585,8 @@
       "state": "Nevada",
       "closed": true,
       "latitude": "36.2471",
-      "longitude": "-115.221"
+      "longitude": "-115.221",
+      "score": 0
     }
   },
   {
@@ -5168,7 +5598,8 @@
       "state": "Louisiana",
       "closed": false,
       "latitude": "32.6076",
-      "longitude": "-93.7526"
+      "longitude": "-93.7526",
+      "score": 0
     }
   },
   {
@@ -5180,7 +5611,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.9577",
-      "longitude": "-121.2897"
+      "longitude": "-121.2897",
+      "score": 0
     }
   },
   {
@@ -5192,7 +5624,8 @@
       "state": "Tennessee",
       "closed": false,
       "latitude": "35.2017",
-      "longitude": "-89.9715"
+      "longitude": "-89.9715",
+      "score": 0
     }
   },
   {
@@ -5204,7 +5637,8 @@
       "state": "Washington",
       "closed": false,
       "latitude": "47.0662",
-      "longitude": "-122.1132"
+      "longitude": "-122.1132",
+      "score": 0
     }
   },
   {
@@ -5216,7 +5650,8 @@
       "state": "California",
       "closed": true,
       "latitude": "38.3774",
-      "longitude": "-121.4444"
+      "longitude": "-121.4444",
+      "score": 0
     }
   },
   {
@@ -5228,7 +5663,8 @@
       "state": "South Carolina",
       "closed": true,
       "latitude": "33.7377",
-      "longitude": "-78.9787"
+      "longitude": "-78.9787",
+      "score": 0
     }
   },
   {
@@ -5240,7 +5676,8 @@
       "state": "Missouri",
       "closed": false,
       "latitude": "39.2829",
-      "longitude": "-94.409"
+      "longitude": "-94.409",
+      "score": 0
     }
   },
   {
@@ -5252,7 +5689,8 @@
       "state": "Virginia",
       "closed": true,
       "latitude": "39.0853",
-      "longitude": "-77.6452"
+      "longitude": "-77.6452",
+      "score": 0
     }
   },
   {
@@ -5264,7 +5702,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "32.3475",
-      "longitude": "-95.3065"
+      "longitude": "-95.3065",
+      "score": 0
     }
   },
   {
@@ -5276,7 +5715,8 @@
       "state": "Utah",
       "closed": false,
       "latitude": "40.7286",
-      "longitude": "-111.6627"
+      "longitude": "-111.6627",
+      "score": 0
     }
   },
   {
@@ -5288,7 +5728,8 @@
       "state": "Illinois",
       "closed": true,
       "latitude": "40.7442",
-      "longitude": "-89.7184"
+      "longitude": "-89.7184",
+      "score": 0
     }
   },
   {
@@ -5300,7 +5741,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "42.6149",
-      "longitude": "-73.9708"
+      "longitude": "-73.9708",
+      "score": 0
     }
   },
   {
@@ -5312,7 +5754,8 @@
       "state": "Oregon",
       "closed": false,
       "latitude": "45.5483",
-      "longitude": "-122.8276"
+      "longitude": "-122.8276",
+      "score": 0
     }
   },
   {
@@ -5324,7 +5767,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "40.6914",
-      "longitude": "-73.8061"
+      "longitude": "-73.8061",
+      "score": 0
     }
   },
   {
@@ -5336,7 +5780,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "40.4072",
-      "longitude": "-79.9839"
+      "longitude": "-79.9839",
+      "score": 0
     }
   },
   {
@@ -5348,7 +5793,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "31.6948",
-      "longitude": "-106.3"
+      "longitude": "-106.3",
+      "score": 0
     }
   },
   {
@@ -5360,7 +5806,8 @@
       "state": "Nevada",
       "closed": false,
       "latitude": "36.0914",
-      "longitude": "-115.0885"
+      "longitude": "-115.0885",
+      "score": 0
     }
   },
   {
@@ -5372,7 +5819,8 @@
       "state": "New York",
       "closed": true,
       "latitude": "43.286",
-      "longitude": "-77.6843"
+      "longitude": "-77.6843",
+      "score": 0
     }
   },
   {
@@ -5384,7 +5832,8 @@
       "state": "California",
       "closed": false,
       "latitude": "36.7464",
-      "longitude": "-119.6397"
+      "longitude": "-119.6397",
+      "score": 0
     }
   },
   {
@@ -5396,7 +5845,8 @@
       "state": "Pennsylvania",
       "closed": false,
       "latitude": "42.1827",
-      "longitude": "-80.0649"
+      "longitude": "-80.0649",
+      "score": 0
     }
   },
   {
@@ -5408,7 +5858,8 @@
       "state": "Ohio",
       "closed": false,
       "latitude": "41.2405",
-      "longitude": "-80.8441"
+      "longitude": "-80.8441",
+      "score": 0
     }
   },
   {
@@ -5420,7 +5871,8 @@
       "state": "Kentucky",
       "closed": true,
       "latitude": "38.0283",
-      "longitude": "-84.4715"
+      "longitude": "-84.4715",
+      "score": 0
     }
   },
   {
@@ -5432,7 +5884,8 @@
       "state": "Indiana",
       "closed": false,
       "latitude": "39.7795",
-      "longitude": "-86.1328"
+      "longitude": "-86.1328",
+      "score": 0
     }
   },
   {
@@ -5444,7 +5897,8 @@
       "state": "Virginia",
       "closed": true,
       "latitude": "37.2742",
-      "longitude": "-79.9579"
+      "longitude": "-79.9579",
+      "score": 0
     }
   },
   {
@@ -5456,7 +5910,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "28.1147",
-      "longitude": "-82.3678"
+      "longitude": "-82.3678",
+      "score": 0
     }
   },
   {
@@ -5468,7 +5923,8 @@
       "state": "Louisiana",
       "closed": true,
       "latitude": "32.4589",
-      "longitude": "-93.7143"
+      "longitude": "-93.7143",
+      "score": 0
     }
   },
   {
@@ -5480,7 +5936,8 @@
       "state": "Colorado",
       "closed": true,
       "latitude": "38.8558",
-      "longitude": "-104.7134"
+      "longitude": "-104.7134",
+      "score": 0
     }
   },
   {
@@ -5492,7 +5949,8 @@
       "state": "Georgia",
       "closed": true,
       "latitude": "34.0047",
-      "longitude": "-84.1532"
+      "longitude": "-84.1532",
+      "score": 0
     }
   },
   {
@@ -5504,7 +5962,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "34.0047",
-      "longitude": "-84.1532"
+      "longitude": "-84.1532",
+      "score": 0
     }
   },
   {
@@ -5516,7 +5975,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "29.4375",
-      "longitude": "-98.4616"
+      "longitude": "-98.4616",
+      "score": 0
     }
   },
   {
@@ -5528,7 +5988,8 @@
       "state": "Georgia",
       "closed": true,
       "latitude": "33.9328",
-      "longitude": "-84.556"
+      "longitude": "-84.556",
+      "score": 0
     }
   },
   {
@@ -5540,7 +6001,8 @@
       "state": "California",
       "closed": false,
       "latitude": "38.6026",
-      "longitude": "-121.4475"
+      "longitude": "-121.4475",
+      "score": 0
     }
   },
   {
@@ -5552,7 +6014,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "26.0143",
-      "longitude": "-81.5856"
+      "longitude": "-81.5856",
+      "score": 0
     }
   },
   {
@@ -5564,7 +6027,8 @@
       "state": "Arizona",
       "closed": true,
       "latitude": "33.3022",
-      "longitude": "-112.1226"
+      "longitude": "-112.1226",
+      "score": 0
     }
   },
   {
@@ -5576,7 +6040,8 @@
       "state": "Nebraska",
       "closed": false,
       "latitude": "41.2955",
-      "longitude": "-96.1008"
+      "longitude": "-96.1008",
+      "score": 0
     }
   },
   {
@@ -5588,7 +6053,8 @@
       "state": "Georgia",
       "closed": true,
       "latitude": "34.0268",
-      "longitude": "-84.2422"
+      "longitude": "-84.2422",
+      "score": 0
     }
   },
   {
@@ -5600,7 +6066,8 @@
       "state": "Texas",
       "closed": true,
       "latitude": "29.6701",
-      "longitude": "-98.6873"
+      "longitude": "-98.6873",
+      "score": 0
     }
   },
   {
@@ -5612,7 +6079,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "32.0175",
-      "longitude": "-80.997"
+      "longitude": "-80.997",
+      "score": 0
     }
   },
   {
@@ -5624,7 +6092,8 @@
       "state": "California",
       "closed": false,
       "latitude": "33.8106",
-      "longitude": "-118.3507"
+      "longitude": "-118.3507",
+      "score": 0
     }
   },
   {
@@ -5636,7 +6105,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "28.0081",
-      "longitude": "-82.5805"
+      "longitude": "-82.5805",
+      "score": 0
     }
   },
   {
@@ -5648,7 +6118,8 @@
       "state": "California",
       "closed": false,
       "latitude": "32.8538",
-      "longitude": "-117.1197"
+      "longitude": "-117.1197",
+      "score": 0
     }
   },
   {
@@ -5660,7 +6131,8 @@
       "state": "Minnesota",
       "closed": false,
       "latitude": "44.0225",
-      "longitude": "-92.4668"
+      "longitude": "-92.4668",
+      "score": 0
     }
   },
   {
@@ -5672,7 +6144,8 @@
       "state": "Kansas",
       "closed": true,
       "latitude": "38.9273",
-      "longitude": "-94.7143"
+      "longitude": "-94.7143",
+      "score": 0
     }
   },
   {
@@ -5684,7 +6157,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "42.4981",
-      "longitude": "-83.2058"
+      "longitude": "-83.2058",
+      "score": 0
     }
   },
   {
@@ -5696,7 +6170,8 @@
       "state": "Indiana",
       "closed": true,
       "latitude": "41.1465",
-      "longitude": "-85.1232"
+      "longitude": "-85.1232",
+      "score": 0
     }
   },
   {
@@ -5708,7 +6183,8 @@
       "state": "Wisconsin",
       "closed": false,
       "latitude": "43.0174",
-      "longitude": "-87.5697"
+      "longitude": "-87.5697",
+      "score": 0
     }
   },
   {
@@ -5720,7 +6196,8 @@
       "state": "Minnesota",
       "closed": true,
       "latitude": "45.0159",
-      "longitude": "-93.4719"
+      "longitude": "-93.4719",
+      "score": 0
     }
   },
   {
@@ -5732,7 +6209,8 @@
       "state": "Arizona",
       "closed": true,
       "latitude": "33.3022",
-      "longitude": "-112.1226"
+      "longitude": "-112.1226",
+      "score": 0
     }
   },
   {
@@ -5744,7 +6222,8 @@
       "state": "Florida",
       "closed": true,
       "latitude": "26.2626",
-      "longitude": "-81.8071"
+      "longitude": "-81.8071",
+      "score": 0
     }
   },
   {
@@ -5756,7 +6235,8 @@
       "state": "Washington",
       "closed": false,
       "latitude": "47.0662",
-      "longitude": "-122.1132"
+      "longitude": "-122.1132",
+      "score": 0
     }
   },
   {
@@ -5768,7 +6248,8 @@
       "state": "District of Columbia",
       "closed": true,
       "latitude": "38.892",
-      "longitude": "-77.0452"
+      "longitude": "-77.0452",
+      "score": 0
     }
   },
   {
@@ -5780,7 +6261,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "29.4375",
-      "longitude": "-98.4616"
+      "longitude": "-98.4616",
+      "score": 0
     }
   },
   {
@@ -5792,7 +6274,8 @@
       "state": "Ohio",
       "closed": true,
       "latitude": "40.8956",
-      "longitude": "-81.433"
+      "longitude": "-81.433",
+      "score": 0
     }
   },
   {
@@ -5804,7 +6287,8 @@
       "state": "Alabama",
       "closed": false,
       "latitude": "33.6493",
-      "longitude": "-86.7057"
+      "longitude": "-86.7057",
+      "score": 0
     }
   },
   {
@@ -5816,7 +6300,8 @@
       "state": "Maine",
       "closed": false,
       "latitude": "43.6783",
-      "longitude": "-70.1987"
+      "longitude": "-70.1987",
+      "score": 0
     }
   },
   {
@@ -5828,7 +6313,8 @@
       "state": "North Carolina",
       "closed": true,
       "latitude": "36.0275",
-      "longitude": "-80.2073"
+      "longitude": "-80.2073",
+      "score": 0
     }
   },
   {
@@ -5840,7 +6326,8 @@
       "state": "Ohio",
       "closed": false,
       "latitude": "41.6782",
-      "longitude": "-83.4972"
+      "longitude": "-83.4972",
+      "score": 0
     }
   },
   {
@@ -5852,7 +6339,8 @@
       "state": "Kansas",
       "closed": false,
       "latitude": "39.0142",
-      "longitude": "-95.6982"
+      "longitude": "-95.6982",
+      "score": 0
     }
   },
   {
@@ -5864,7 +6352,8 @@
       "state": "California",
       "closed": true,
       "latitude": "37.7848",
-      "longitude": "-122.7278"
+      "longitude": "-122.7278",
+      "score": 0
     }
   },
   {
@@ -5876,7 +6365,8 @@
       "state": "West Virginia",
       "closed": true,
       "latitude": "38.4134",
-      "longitude": "-82.2774"
+      "longitude": "-82.2774",
+      "score": 0
     }
   },
   {
@@ -5888,7 +6378,8 @@
       "state": "New Jersey",
       "closed": true,
       "latitude": "40.6747",
-      "longitude": "-74.2239"
+      "longitude": "-74.2239",
+      "score": 0
     }
   },
   {
@@ -5900,7 +6391,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "28.3822",
-      "longitude": "-81.569"
+      "longitude": "-81.569",
+      "score": 0
     }
   },
   {
@@ -5912,7 +6404,8 @@
       "state": "Utah",
       "closed": false,
       "latitude": "40.7372",
-      "longitude": "-111.8581"
+      "longitude": "-111.8581",
+      "score": 0
     }
   },
   {
@@ -5924,7 +6417,8 @@
       "state": "Florida",
       "closed": false,
       "latitude": "28.06",
-      "longitude": "-82.4079"
+      "longitude": "-82.4079",
+      "score": 0
     }
   },
   {
@@ -5936,7 +6430,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "42.7325",
-      "longitude": "-84.5587"
+      "longitude": "-84.5587",
+      "score": 0
     }
   },
   {
@@ -5948,7 +6443,8 @@
       "state": "Michigan",
       "closed": true,
       "latitude": "43.3869",
-      "longitude": "-84.0926"
+      "longitude": "-84.0926",
+      "score": 0
     }
   },
   {
@@ -5960,7 +6456,8 @@
       "state": "Georgia",
       "closed": true,
       "latitude": "31.9714",
-      "longitude": "-81.0716"
+      "longitude": "-81.0716",
+      "score": 0
     }
   },
   {
@@ -5972,7 +6469,8 @@
       "state": "Georgia",
       "closed": false,
       "latitude": "32.8067",
-      "longitude": "-83.6913"
+      "longitude": "-83.6913",
+      "score": 0
     }
   },
   {
@@ -5984,7 +6482,8 @@
       "state": "District of Columbia",
       "closed": false,
       "latitude": "38.8933",
-      "longitude": "-77.0146"
+      "longitude": "-77.0146",
+      "score": 0
     }
   },
   {
@@ -5996,7 +6495,8 @@
       "state": "Texas",
       "closed": false,
       "latitude": "29.5189",
-      "longitude": "-98.6006"
+      "longitude": "-98.6006",
+      "score": 0
     }
   }
 ]

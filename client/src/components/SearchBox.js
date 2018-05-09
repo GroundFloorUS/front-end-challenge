@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import axios from 'axios'
-import Suggestions from './Suggestions.js'
 
 class SearchBox extends Component {
   state = {
@@ -8,14 +7,6 @@ class SearchBox extends Component {
     results: []
   }
 
-  // getInfo = () => {
-  //   axios.get('../db/data_set.json')
-  //     .then(({ data }) => {
-  //       this.setState({
-  //         results: data.data                             
-  //       })
-  //     })
-  // }
 
   handleInputChange = () => {
     this.setState({
@@ -23,9 +14,6 @@ class SearchBox extends Component {
     }, () => {
       if (this.state.query && this.state.query.length > 1) {
         (this.state.query.length % 2 === 0)
-        // {
-        //   this.getInfo()
-        // }
       }
     })
   }
@@ -38,7 +26,6 @@ class SearchBox extends Component {
           ref={input => this.search = input}
           onChange={this.handleInputChange}
         />
-        {/* <p>{this.state.query}</p> */}
       </form>
     )
   }

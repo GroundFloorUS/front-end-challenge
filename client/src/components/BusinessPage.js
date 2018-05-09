@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import { connect } from 'react-redux'
 import { push } from 'react-router-redux'
 import { getBusinessRoute } from '../actions/thunk.businesses.js'
+import Thumbs from './Thumbs.js'
 
 import BusinessList from './BusinessList.js'
 
@@ -32,6 +33,12 @@ class BusinessPage extends Component {
                   <h3>Closed:{business.attributes.closed}</h3>
                   <h3>Latitude:{business.attributes.latitude}</h3>
                   <h3>Longitude:{business.attributes.longitude}</h3>
+                  <h3>Score: {business.attributes.score}</h3>
+                  <Thumbs businessId = {this.businessId} 
+                  approve={this.approve} 
+                  disapprove={this.disapprove} 
+                  business={this.business} 
+                  score={this.score}/>
                 </div>
               )
             }
