@@ -3,6 +3,7 @@ import { connect } from 'react-redux'
 import { push } from 'react-router-redux'
 import styled from 'styled-components'
 import { getBusinessRoute } from '../actions/thunk.businesses.js'
+import SearchBox from './SearchBox.js'
 
 class BusinessList extends Component {
 
@@ -15,6 +16,8 @@ class BusinessList extends Component {
       <Body>
         <h2>Business Page</h2>
         <br />
+        <SearchBox></SearchBox>
+        <br/>
         <Container>
           {this.props.businesses
             .map((business, i) => {
